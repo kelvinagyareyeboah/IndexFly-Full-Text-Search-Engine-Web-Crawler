@@ -1,8 +1,6 @@
 
 	"and": true, "or": true, "fby": true, 	InvertedIndex map[string]map[int]int `json:"inverted_index" -> tf
-	DocLengths    map[int]int      
-	DocName
-	for _, w :
+	DocLengths    map[int]in
 		if !stopWords[w] {
 			
 	}
