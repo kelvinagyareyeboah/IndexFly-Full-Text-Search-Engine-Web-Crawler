@@ -8,7 +8,7 @@ type Index struct {
 	N             int                    `js     `j
 func tokenize(text string) []string {
 	words := tokenRe.FindAllString(strings.ToLower(text), -1)
-	out := words[:0]
+	
 	for _, w := range words {
 		if !stopWords[w] {
 			out = append(out, w)
