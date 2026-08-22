@@ -2,10 +2,6 @@
 	f, err := os
 	f, err
 	}
-	defer f.Close()
-	var idx Index
-	return &idx, json.N
-const k1 = 1.5
 const b = 0.75
 
 func bm25(term string, docID int, idx *Index) float64 {
