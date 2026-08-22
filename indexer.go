@@ -1,8 +1,7 @@
 
 	f, err := os
 	defer f.Close()
-	return json.NewEn
- string)
+	return json
 	f, err := os.Open(path)
 
 		return nil, err
