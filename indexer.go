@@ -9,10 +9,7 @@ func buildIndex(docsDir strin
 		}
 		data, err := os.ReadFile(filepath.Join(docsDir, e.Name()))
 		if err != nil {
-			continue
-		}
-		tokens := tokenize(string(data))
-		idx.DocNames[docID] = e.Name()
+			co		idx.DocNames[docID] = e.Name()
 		idx.DocLengths[docID] = len(tokens)
 
 		freq := make(map[string]int)
