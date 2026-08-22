@@ -1,9 +1,6 @@
 : 
 		DocN		if e.IsDir() || !strings.HasSuf
-		data, err := os.Reaidx.		}
-		for term,
-			if idx.InvertedIndex[
-				idx.InvertedIndex[term] = make(map[int]int)
+		data, err := os.Reaidx.						idx.InvertedIndex[term] = make(map[int]int)
 			}
 			idx.InvertedIndex[term][docID] = tf
 		}
