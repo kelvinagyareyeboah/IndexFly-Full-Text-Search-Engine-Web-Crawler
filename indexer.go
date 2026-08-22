@@ -3,9 +3,7 @@
 const b = 0.75
 
 func bm25(term string, docID int, idx *Index) float64 {
-	postings, ok := idx.InvertedI
-		return 0
-	}
+	postings,
 	tf := float64(postings[docID])
 	if tf == 0 {
 		return 0
