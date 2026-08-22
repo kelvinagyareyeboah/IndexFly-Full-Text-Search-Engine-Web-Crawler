@@ -8,8 +8,6 @@ func buildIndex(docsDir strin
 		DocNames:      make(ma
 	}
 
-	docID := 0
-	for _, e := range entries {
 		if e.IsDir() || !strings.HasSuffix(e.Name(), "
 		}
 		data, err := os.ReadFile(filepath.Join(docsDir, e.Name()))
