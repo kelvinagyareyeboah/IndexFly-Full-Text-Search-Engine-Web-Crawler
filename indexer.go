@@ -7,7 +7,7 @@ func buildIndex(docsDir strin
 
 	idx := &Index{
 		InvertedIndex: make(map[string
-		DocLengths:    make(map[int]int),
+		DocLengths:    make
 		DocNames:      make(ma
 	}
 
