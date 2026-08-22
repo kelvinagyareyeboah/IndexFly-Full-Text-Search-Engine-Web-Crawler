@@ -6,7 +6,7 @@ func buildIndex(docsDir strin
 		InvertedIndex: make(map[string
 		Doc
 		DocN		if e.IsDir() || !strings.HasSuf
-		data, err := os.ReadFile(filepath.Join(docsDir, e.Name()))
+		data, err := os.ReadFile(filepath.Join(d
 		if err != nil {
 			co		idx.DocNames[docID] = e.Name()
 		idx.DocLengths[docID] = len(tokens)
