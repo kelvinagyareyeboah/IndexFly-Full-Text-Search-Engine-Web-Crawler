@@ -1,6 +1,4 @@
-
-	idx := &Index{
-		InvertedIndex: 
+: 
 		DocN		if e.IsDir() || !strings.HasSuf
 		data, err := os.Reaidx.		}
 		for term,
