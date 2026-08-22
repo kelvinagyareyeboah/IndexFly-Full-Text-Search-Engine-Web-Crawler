@@ -1,8 +1,4 @@
-idx.						idx.Inv= make(map[int]int)
-			}
-			idx.Invert
-	idx.N = docID
-	total := 0
+idx.						idx.Inv= make(map[int]int
 	for _, l := range 
 		
 		idx.AvgDL = float64(total) / float64
