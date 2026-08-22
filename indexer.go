@@ -1,7 +1,5 @@
 
 	f, err := os
-		return err
-	}
 	defer f.Close()
 	return json.NewEncoder
 
