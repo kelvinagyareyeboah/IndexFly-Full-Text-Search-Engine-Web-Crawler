@@ -1,4 +1,4 @@
-s": true, "it": true,
+
 	"in": true, "on": true, "at": true, "to": true, "of": true,
 	"and": true, "or": true, "fby": true, "from": tru
 var tokenRe = r
