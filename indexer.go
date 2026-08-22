@@ -1,4 +1,4 @@
-idx.						idx.InvertedIndex[term] = make(map[int]int)
+idx.						idx.Inv= make(map[int]int)
 			}
 			idx.Invert
 	idx.N = docID
