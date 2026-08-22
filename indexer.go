@@ -1,6 +1,4 @@
 
-func bm25(term string, docID int, idx *Index) float64 {
-	postings,
 	tf := float64(postings[docID])
 	if tf == 0 {
 		return 0
