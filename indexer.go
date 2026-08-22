@@ -3,9 +3,7 @@
 		InvertedIndex: make(map[string
 		Doc
 		DocN		if e.IsDir() || !strings.HasSuf
-		data, err := os.Reaidx.DocNames[docI
-		freq := make(map[st			freq[t]++
-		}
+		data, err := os.Reaidx.		}
 		for term,
 			if idx.InvertedIndex[
 				idx.InvertedIndex[term] = make(map[int]int)
