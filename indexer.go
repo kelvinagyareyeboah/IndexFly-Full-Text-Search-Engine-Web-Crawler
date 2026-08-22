@@ -1,5 +1,4 @@
-
-	"in": true, "on": true, "at": true, "to": true, "of": true,
+true, "at": true, "to": true, "of": true,
 	"and": true, "or": true, "fby": true, "from": tru
 var tokenRe = r
 type Index struct {
