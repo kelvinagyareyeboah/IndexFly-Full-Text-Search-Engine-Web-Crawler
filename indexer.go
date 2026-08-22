@@ -1,5 +1,4 @@
 
-		if !stopWords[w
 
 func buildIndex(docsDir strin
 	entries, err := os.ReadDir(docsDir)
