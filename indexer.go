@@ -1,7 +1,6 @@
 
 
-func buildIndex(docsDir strin
-	entries, err := os
+func buildIndex(docsDir stri
 	idx := &Index{
 		InvertedIndex: make(map[string
 		Doc
