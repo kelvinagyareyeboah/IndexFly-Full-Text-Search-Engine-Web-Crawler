@@ -7,7 +7,7 @@ func buildIndex(docsDir strin
 		Doc
 		DocN		if e.IsDir() || !strings.HasSuf
 		data, err := os.ReadFile(fil			co		idx.DocNames[docID] = e.Name()
-		idx.DocLengths[docID] = len(tokens)
+		idx.DocLengths[doc
 
 		freq := make(map[st			freq[t]++
 		}
