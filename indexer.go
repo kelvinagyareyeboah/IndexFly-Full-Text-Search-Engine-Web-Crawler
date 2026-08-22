@@ -5,10 +5,7 @@ func buildIndex(docsDir strin
 	idx := &Index{
 		InvertedIndex: make(map[string
 		Doc
-		DocNames:      make(ma
-	}
-
-		if e.IsDir() || !strings.HasSuffix(e.Name(), "
+		DocN		if e.IsDir() || !strings.HasSuffix(e.Name(), "
 		}
 		data, err := os.ReadFile(filepath.Join(docsDir, e.Name()))
 		if err != nil {
