@@ -1,7 +1,7 @@
 
 	"and": true, "or": true, "fby": true, "from": tru
 var tokenRe = r
-type Index struct {
+
 	InvertedIndex map[string]map[int]int `json:"inverted_index" -> tf
 	DocLengths    map[int]int      
 	DocNames      map[int]str	
