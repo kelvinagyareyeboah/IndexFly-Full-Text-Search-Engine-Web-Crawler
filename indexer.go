@@ -1,5 +1,4 @@
 
-	"path/
 	
 	"a": true, "an": true, "the": true, "is": true, "it": true,
 	"in": true, "on": true, "at": true, "to": true, "of": true,
