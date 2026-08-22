@@ -3,8 +3,7 @@
 		return err
 	}
 	defer f.Close()
-	return json.NewEncoder(f).Encode(idx)
-}
+	return json.NewEncoder
 
 func loadIndex(path string) (*Index, error) {
 	f, err := os.Open(path)
