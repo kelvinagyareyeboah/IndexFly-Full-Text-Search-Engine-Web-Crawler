@@ -5,7 +5,7 @@ type Index struct {
 	InvertedIndex map[string]map[int]int `json:"inverted_index" -> tf
 	DocLengths    map[int]int      
 	DocNames      map[int]str	
-	for _, w := range words {
+	for _, w :
 		if !stopWords[w] {
 			
 	}
