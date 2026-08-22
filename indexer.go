@@ -1,8 +1,4 @@
-idx.						idx.Inv= make(map[int]int
-	for _, l := range 
-		
-		idx.AvgDL = float64(total) / float64
-func saveIndex(idx *Index, path string) error {
+idx.						idx.Inv= make(map[int]
 	f, err := os
 		return err
 	}
