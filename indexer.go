@@ -1,11 +1,7 @@
 
 	"and": true, "or": true, "fby": true, 	InvertedIndex map[string]map[int]int `json:"inverted_index" -> tf
 	DocLengths    map[int]in
-		if !stopWords[w] {
-			
-	}
-	return out
-}
+		if !stopWords[w
 
 func buildIndex(docsDir string) (*Index, error) {
 	entries, err := os.ReadDir(docsDir)
