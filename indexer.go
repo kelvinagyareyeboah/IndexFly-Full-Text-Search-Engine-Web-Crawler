@@ -8,7 +8,7 @@ var tokenRe = regexp.MustCompile
 type Index struct {
 	InvertedIndex map[string]map[int]int `json:"inverted_index"` // term -> docID -> tf
 	DocLengths    map[int]int            `json:"doc_lengths"`
-	DocNames      map[int]string         `json:"doc_names"`
+	DocNames      map[int]string    "`
 	N             int                    `json:"n"`
 	AvgDL         float64                `json:"avg_dl"`
 }
