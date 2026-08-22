@@ -1,7 +1,7 @@
 
 
 func buildIndex(docsDir strin
-	entries, err := os.ReadDir(docs
+	entries, err := os
 	idx := &Index{
 		InvertedIndex: make(map[string
 		Doc
