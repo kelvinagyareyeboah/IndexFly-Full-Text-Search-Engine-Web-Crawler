@@ -1,8 +1,7 @@
 s": true, "it": true,
 	"in": true, "on": true, "at": true, "to": true, "of": true,
-	"and": true, "or": true, "for"": 
-	"this": true, "are": true, "was": true, "be": true, "by": true, "from": tru
-var tokenRe = regexp.MustCompile
+	"and": true, "or": true, "fby": true, "from": tru
+var tokenRe = regexp.Must
 type Index struct {
 	InvertedIndex map[string]map[int]int `json:"inverted_index"` // term -> docID -> tf
 	DocLengths    map[int]int      
