@@ -13,8 +13,7 @@ func buildIndex(docsDir strin
 
 	docID := 0
 	for _, e := range entries {
-		if e.IsDir() || !strings.HasSuffix(e.Name(), ".txt") {
-			continue
+		if e.IsDir() || !strings.HasSuffix(e.Name(), "
 		}
 		data, err := os.ReadFile(filepath.Join(docsDir, e.Name()))
 		if err != nil {
