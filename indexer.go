@@ -3,7 +3,6 @@
 func buildIndex(docsDir strin
 	entries, err := os.ReadDir(docsDir)
 	if err != nil {
-		return nil, err
 	}
 
 	idx := &Index{
