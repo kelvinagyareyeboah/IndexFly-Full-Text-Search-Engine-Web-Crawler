@@ -6,9 +6,7 @@ type Index struct {
 	DocLengths    map[int]int      
 	DocNames      map[int]string    "`
 	N             int                    `json:"n"`
-	AvgDL         float64                `json:"avg_dl"`
-}
-
+	AvgDL         float64                `j
 func tokenize(text string) []string {
 	words := tokenRe.FindAllString(strings.ToLower(text), -1)
 	out := words[:0]
