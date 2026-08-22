@@ -1,8 +1,5 @@
 
-	"and": true, "or": true, "fby": true, "from": tru
-var tokenRe = r
-
-	InvertedIndex map[string]map[int]int `json:"inverted_index" -> tf
+	"and": true, "or": true, "fby": true, 	InvertedIndex map[string]map[int]int `json:"inverted_index" -> tf
 	DocLengths    map[int]int      
 	DocNames      map[int]str	
 	for _, w :
