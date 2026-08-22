@@ -1,6 +1,4 @@
 
-	f, err := os
-	f, err
 	}
 const b = 0.75
 
