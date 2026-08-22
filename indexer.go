@@ -5,8 +5,7 @@ type Index struct {
 	InvertedIndex map[string]map[int]int `json:"inverted_index"` // term -> docID -> tf
 	DocLengths    map[int]int      
 	DocNames      map[int]string    "`
-	N             int                    `json:"n"`
-	AvgDL         float64                `j
+	N             int                    `js     `j
 func tokenize(text string) []string {
 	words := tokenRe.FindAllString(strings.ToLower(text), -1)
 	out := words[:0]
