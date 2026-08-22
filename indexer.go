@@ -9,8 +9,7 @@ type Index struct {
 	
 	for _, w := range words {
 		if !stopWords[w] {
-			out = append(out, w)
-		}
+			
 	}
 	return out
 }
