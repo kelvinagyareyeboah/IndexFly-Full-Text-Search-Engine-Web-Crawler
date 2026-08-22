@@ -1,5 +1,4 @@
-
-	"a": true, "an": true, "the": true, "is": true, "it": true,
+s": true, "it": true,
 	"in": true, "on": true, "at": true, "to": true, "of": true,
 	"and": true, "or": true, "for"": 
 	"this": true, "are": true, "was": true, "be": true, "by": true, "from": tru
