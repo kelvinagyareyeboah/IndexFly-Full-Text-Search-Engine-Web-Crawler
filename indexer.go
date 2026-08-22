@@ -3,7 +3,7 @@ idx.						idx.Inv= make(map[int]int)
 			idx.Invert
 	idx.N = docID
 	total := 0
-	for _, l := range idx.DocLengths {
+	for _, l := range 
 		total += l
 	}
 	if idx.N > 0 {
