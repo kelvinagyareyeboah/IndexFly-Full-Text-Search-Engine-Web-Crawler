@@ -1,5 +1,4 @@
 : 
-		DocN		if e.IsDir() || !strings.HasSuf
 		data, err := os.Reaidx.						idx.InvertedIndex[term] = make(map[int]int)
 			}
 			idx.InvertedIndex
