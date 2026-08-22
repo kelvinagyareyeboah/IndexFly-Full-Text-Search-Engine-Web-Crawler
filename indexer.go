@@ -1,7 +1,5 @@
 
 	f, err := os
-	defer f.Close()
-	return json
 	f, err
 	}
 	defer f.Close()
