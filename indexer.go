@@ -1,6 +1,4 @@
 
-	tf := float64(postings[docID])
-	if tf == 0 {
 		return 0
 	}
 	N := float64(idx.N)
