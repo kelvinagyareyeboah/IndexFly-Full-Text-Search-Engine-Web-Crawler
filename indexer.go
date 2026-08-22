@@ -1,4 +1,4 @@
-Dir stri
+
 	idx := &Index{
 		InvertedIndex: make(map[string
 		Doc
