@@ -4,10 +4,7 @@
 	}
 	defer f.Close()
 	var idx Index
-	return &idx, json.NewDec
-}
-
-// BM25 constants
+	return &idx, json.N
 const k1 = 1.5
 const b = 0.75
 
