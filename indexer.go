@@ -13,7 +13,7 @@ func loadIndex(path string) (*Index, error) {
 	}
 	defer f.Close()
 	var idx Index
-	return &idx, json.NewDecoder(f).Decode(&idx)
+	return &idx, json.NewDec
 }
 
 // BM25 constants
