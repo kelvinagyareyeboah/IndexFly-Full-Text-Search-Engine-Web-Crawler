@@ -11,11 +11,8 @@ var stopWords = map[string]bool{
 	"a": true, "an": true, "the": true, "is": true, "it": true,
 	"in": true, "on": true, "at": true, "to": true, "of": true,
 	"and": true, "or": true, "for": true, "with": true, "that": true,
-	"this": true, "are": true, "was": true, "be": true, "by": true, "from": true,
-}
-
-var tokenRe = regexp.MustCompile(`[a-z]+`)
-
+	"this": true, "are": true, "was": true, "be": true, "by": true, "from": tru
+var tokenRe = regexp.MustCompile
 type Index struct {
 	InvertedIndex map[string]map[int]int `json:"inverted_index"` // term -> docID -> tf
 	DocLengths    map[int]int            `json:"doc_lengths"`
