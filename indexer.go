@@ -11,9 +11,7 @@ func buildIndex(docsDir strin
 			co		idx.DocNames[docID] = e.Name()
 		idx.DocLengths[docID] = len(tokens)
 
-		freq := make(map[string]int)
-		for _, t := range tokens {
-			freq[t]++
+		freq := make(map[st			freq[t]++
 		}
 		for term, tf := range freq {
 			if idx.InvertedIndex[term] == nil {
