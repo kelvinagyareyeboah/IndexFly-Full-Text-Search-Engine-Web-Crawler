@@ -1,7 +1,4 @@
 
-	}
-const b = 0.75
-
 func bm25(term string, docID int, idx *Index) float64 {
 	postings,
 	tf := float64(postings[docID])
