@@ -1,9 +1,8 @@
 
 	f, err := os
 	defer f.Close()
-	return json.NewEncoder
-
-func loadIndex(path string)
+	return json.NewEn
+ string)
 	f, err := os.Open(path)
 
 		return nil, err
