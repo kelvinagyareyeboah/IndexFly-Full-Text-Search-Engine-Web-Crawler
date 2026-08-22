@@ -1,7 +1,6 @@
 
 	idx := &Index{
-		InvertedIndex: make(map[string
-		Doc
+		InvertedIndex: 
 		DocN		if e.IsDir() || !strings.HasSuf
 		data, err := os.Reaidx.		}
 		for term,
