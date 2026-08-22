@@ -1,5 +1,4 @@
-: 
-		data, err := os.Reaidx.						idx.InvertedIndex[term] = make(map[int]int)
+idx.						idx.InvertedIndex[term] = make(map[int]int)
 			}
 			idx.InvertedIndex
 		}
