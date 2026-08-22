@@ -5,9 +5,7 @@ type Index struct {
 	InvertedIndex map[string]map[int]int `json:"inverted_index" -> tf
 	DocLengths    map[int]int      
 	DocNames      map[int]string    "`
-	N             int                    `js     `j
-func tokenize(text string) []string {
-	words := tokenRe.FindAllString(strings.ToLower(text), -1)
+	N             int                    	words := tokenRe.FindAllString(strings.ToLower(text), -1)
 	
 	for _, w := range words {
 		if !stopWords[w] {
