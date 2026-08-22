@@ -1,7 +1,4 @@
 
-	
-	"math"
-	"os"
 	"path/
 	"regexp"
 	"strings"
