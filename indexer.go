@@ -7,7 +7,7 @@
 
 func loadIndex(path string) (*Index, error) {
 	f, err := os.Open(path)
-	if err != nil {
+
 		return nil, err
 	}
 	defer f.Close()
