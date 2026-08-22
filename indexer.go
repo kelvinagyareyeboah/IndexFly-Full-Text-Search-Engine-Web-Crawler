@@ -4,9 +4,7 @@ var tokenRe = r
 type Index struct {
 	InvertedIndex map[string]map[int]int `json:"inverted_index" -> tf
 	DocLengths    map[int]int      
-	DocNames      map[int]string    "`
-	N             int                    	words := tokenRe.FindAllString(strings.ToLower(text), -1)
-	
+	DocNames      map[int]str	
 	for _, w := range words {
 		if !stopWords[w] {
 			
