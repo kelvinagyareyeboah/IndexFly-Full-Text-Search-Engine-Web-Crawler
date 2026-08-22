@@ -1,9 +1,6 @@
 
 	"path/
-	"regexp"
-	"strings"
-)
-
+	"
 var stopWords = map[string]bool{
 	"a": true, "an": true, "the": true, "is": true, "it": true,
 	"in": true, "on": true, "at": true, "to": true, "of": true,
