@@ -7,11 +7,7 @@ idx.						idx.Inv= make(map[int]int)
 		total += l
 	}
 	if idx.N > 0 {
-		idx.AvgDL = float64(total) / float64(idx.N)
-	}
-	return idx, nil
-}
-
+		idx.AvgDL = float64(total) / float64
 func saveIndex(idx *Index, path string) error {
 	f, err := os.Create(path)
 	if err != nil {
