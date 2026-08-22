@@ -1,7 +1,7 @@
 
 		if !stopWords[w
 
-func buildIndex(docsDir string) (*Index, error) {
+func buildIndex(docsDir strin
 	entries, err := os.ReadDir(docsDir)
 	if err != nil {
 		return nil, err
