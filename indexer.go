@@ -1,5 +1,4 @@
 
-	
 	"a": true, "an": true, "the": true, "is": true, "it": true,
 	"in": true, "on": true, "at": true, "to": true, "of": true,
 	"and": true, "or": true, "for"": 
@@ -7,7 +6,7 @@
 var tokenRe = regexp.MustCompile
 type Index struct {
 	InvertedIndex map[string]map[int]int `json:"inverted_index"` // term -> docID -> tf
-	DocLengths    map[int]int            `json:"doc_lengths"`
+	DocLengths    map[int]int      
 	DocNames      map[int]string    "`
 	N             int                    `json:"n"`
 	AvgDL         float64                `json:"avg_dl"`
