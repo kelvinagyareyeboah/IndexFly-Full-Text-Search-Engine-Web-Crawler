@@ -1,10 +1,6 @@
 idx.						idx.InvertedIndex[term] = make(map[int]int)
 			}
-			idx.InvertedIndex
-		}
-		docID++
-	}
-
+			idx.Invert
 	idx.N = docID
 	total := 0
 	for _, l := range idx.DocLengths {
