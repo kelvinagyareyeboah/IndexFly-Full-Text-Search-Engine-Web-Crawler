@@ -1,7 +1,7 @@
 
 	"path/
 	"
-var stopWords = map[string]bool{
+var stopWords = 
 	"a": true, "an": true, "the": true, "is": true, "it": true,
 	"in": true, "on": true, "at": true, "to": true, "of": true,
 	"and": true, "or": true, "for"": true, "that": true,
