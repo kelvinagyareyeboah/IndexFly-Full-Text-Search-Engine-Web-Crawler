@@ -3,8 +3,6 @@
 	defer f.Close()
 	return json
 	f, err := os.Open(path)
-
-		return nil, err
 	}
 	defer f.Close()
 	var idx Index
