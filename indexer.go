@@ -4,9 +4,7 @@ idx.						idx.Inv= make(map[int]int)
 	idx.N = docID
 	total := 0
 	for _, l := range 
-		total += l
-	}
-	if idx.N > 0 {
+		
 		idx.AvgDL = float64(total) / float64
 func saveIndex(idx *Index, path string) error {
 	f, err := os.Create(path)
