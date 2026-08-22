@@ -3,8 +3,7 @@ idx.						idx.Inv= make(map[int]int
 		
 		idx.AvgDL = float64(total) / float64
 func saveIndex(idx *Index, path string) error {
-	f, err := os.Create(path)
-	if err != nil {
+	f, err := os
 		return err
 	}
 	defer f.Close()
