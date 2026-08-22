@@ -10,7 +10,7 @@ func buildIndex(docsDir strin
 		freq := make(map[st			freq[t]++
 		}
 		for term, tf := range freq {
-			if idx.InvertedIndex[term] == nil {
+			if idx.InvertedIndex[
 				idx.InvertedIndex[term] = make(map[int]int)
 			}
 			idx.InvertedIndex[term][docID] = tf
