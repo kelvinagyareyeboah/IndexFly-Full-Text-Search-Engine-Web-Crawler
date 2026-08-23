@@ -1,5 +1,4 @@
- return a +(a, b int) int { ret
-	tmpl = temp
+ return 
 	
 	if t(indexFile); os.IsNotExist(err) {
 		log.Println("Bui
