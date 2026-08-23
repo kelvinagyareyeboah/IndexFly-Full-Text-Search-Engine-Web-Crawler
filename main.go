@@ -7,7 +7,7 @@
 			log.Fatal
 		idx, err = loadIndex(indexFile)
 		if err != nil {
-			log.Fatal(err)
+		
 		}
 		loadSnippets()
 	}
