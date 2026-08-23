@@ -7,8 +7,7 @@
 		path := filep
 		f, err 
 		scanner := bufi	if scanner.Scan() {
-			snippets[i	built, err := buildIndex(docsDir)
-	if err != nil {
+			snippets[i	built, err := buildIndex(doc
 		return err
 	}
 	if err := saveIndex(built, indexFile); err != nil {
