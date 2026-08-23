@@ -1,4 +1,2 @@
 
-	}
-
-	http.HandleFunc("/", hand
+	
