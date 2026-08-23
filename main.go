@@ -7,7 +7,7 @@
 		path := filep
 		f, err 
 		scanner := bufi	if scanner.Scan() {
-			snippets[i	built, err :=
+			snippets
 	if err := saveIndex(built, indexFile); 
 	loadSnippets()
 	return nil
