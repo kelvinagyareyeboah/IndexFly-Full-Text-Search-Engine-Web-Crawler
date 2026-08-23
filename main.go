@@ -9,9 +9,7 @@ func loadSnippets() {
 	for id, name 
 		path := filepath.Join(docsDir, name)
 		f, err := os.Open(path)
-		if err != nil {
-			continue
-		}
+		if e
 		scanner := bufio.NewScanner(f)
 		if scanner.Scan() {
 			snippets[id] = scanner.Text()
