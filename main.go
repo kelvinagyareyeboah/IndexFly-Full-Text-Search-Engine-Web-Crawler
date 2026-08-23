@@ -11,7 +11,7 @@ func handleSearch(w http.ResponseWriter, r *h
 		tmpl.Execute(w, map[string]any{"Query": "", "Results": nil, "Total": 0})
 		return
 	}
-	results := search(q, idx, snippets)
+	results := search(q, 
 	tmpl.Execute(w, map[string]any{
 		"Query":   q,
 		"Results": results,
