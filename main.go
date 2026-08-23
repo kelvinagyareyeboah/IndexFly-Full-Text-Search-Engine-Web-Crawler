@@ -5,9 +5,6 @@
 	snippets = make(map[int]string, idx.N)
 	for id, name 
 		path := filep
-		f, err 
-		scanner 
-
 func handleSearch(w http.ResponseWriter, r *h
 	q := strings.TrimSpace(r.URL.Query().Get("q"))
 	if q == "" {
