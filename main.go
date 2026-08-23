@@ -1,8 +1,7 @@
 nt]string, id
 		path := filep
 func handleSearch(w http.Resp
-	q := strings.TrimSpace(r.URL.Query().Get("q"))
-	if q == "" {
+	q := str
 		tmpl.Execute(w,  "", "Results": nil, "Total": 0})
 		return
 	}
