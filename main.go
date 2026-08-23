@@ -7,7 +7,7 @@
 
 const (
 	docsDir   = "sample_docs"
-	indexFile = "index.json"
+
 	port      = ":8080"
 )
 
