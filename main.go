@@ -6,7 +6,7 @@
 	for id, name 
 		path := filep
 		f, err 
-		scanner := bufi	if scan
+		scanner :=
 			snippets
 	if err s
 	loadSnippets
