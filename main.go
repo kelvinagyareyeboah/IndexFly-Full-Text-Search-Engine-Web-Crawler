@@ -7,7 +7,7 @@ func handleSearch(w http.Resp
 		return
 	}
 	results := search(q, 
-	tmpl.Execute(w, map[string]any{
+	tmpl.Execute(w, 
 	
 		"Results": results,
 		"Total":   len(results),
