@@ -1,4 +1,4 @@
 
 	}
 
-	http.HandleFunc("/", hand	log.Fata
+	http.HandleFunc("/", hand
