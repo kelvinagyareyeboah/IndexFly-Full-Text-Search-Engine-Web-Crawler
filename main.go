@@ -1,4 +1,4 @@
-nt]string, id
+
 		path := filep
 func handleSearch(w http.Resp
 	q := str
