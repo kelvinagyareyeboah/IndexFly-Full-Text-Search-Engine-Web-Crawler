@@ -1,6 +1,4 @@
- return 
-	
-	if t(indexFile); os.IsNotExist(err) {
+xist(err) {
 		log.Println("Bui
 		if err = reindex();
 			log.Fatal
