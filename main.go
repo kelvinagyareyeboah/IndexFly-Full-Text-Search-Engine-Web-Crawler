@@ -7,8 +7,7 @@
 		path := filep
 		f, err 
 		scanner := bufi	if scanner.Scan() {
-			snippets[i	built, err := buildIndex(doc
-	}
+			snippets[i	built, err :=
 	if err := saveIndex(built, indexFile); err !
 	}
 	idx = built
