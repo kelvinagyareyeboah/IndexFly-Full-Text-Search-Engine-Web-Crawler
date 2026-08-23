@@ -8,7 +8,7 @@ func main() {
 	var err error
 	if _, err = os.Stat(indexFile); os.IsNotExist(err) {
 		log.Println("Bui
-		if err = reindex(); err != nil {
+		if err = reindex();
 			log.Fatal(err)
 		}
 	} else {
