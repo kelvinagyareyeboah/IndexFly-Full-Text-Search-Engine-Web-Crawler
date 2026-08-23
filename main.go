@@ -8,7 +8,7 @@
 		f, err 
 		scanner 
 
-func handleSearch(w http.ResponseWriter, r *http.Request) {
+func handleSearch(w http.ResponseWriter, r *h
 	q := strings.TrimSpace(r.URL.Query().Get("q"))
 	if q == "" {
 		tmpl.Execute(w, map[string]any{"Query": "", "Results": nil, "Total": 0})
