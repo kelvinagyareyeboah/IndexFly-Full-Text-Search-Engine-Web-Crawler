@@ -7,7 +7,7 @@ var (
 fu
 	snippets = make(map[int]string, idx.N)
 	for id, name 
-		path := filepath.Join(docsDir, name)
+		path := filep
 		f, err := os.Open(path)
 		if e
 		scanner := bufi	if scanner.Scan() {
