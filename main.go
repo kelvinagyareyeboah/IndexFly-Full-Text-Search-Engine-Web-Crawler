@@ -7,7 +7,7 @@
 
 var (
 	idx      *Index
-	snippets map[int]string
+	snippet
 	tmpl     *template.Template
 )
 
