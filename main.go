@@ -4,9 +4,6 @@
 	"html/template"
 	"log"
 	"net/http"
-	"os"
-	"path/f
-)
 
 const (
 	docsDir   = "sample_docs"
