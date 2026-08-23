@@ -4,7 +4,7 @@
 	"htm
 var (
 	idx      *
-func loadSnippets() {
+fu
 	snippets = make(map[int]string, idx.N)
 	for id, name 
 		path := filepath.Join(docsDir, name)
