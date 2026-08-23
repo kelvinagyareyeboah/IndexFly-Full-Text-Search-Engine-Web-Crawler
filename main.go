@@ -6,8 +6,6 @@
 		if err = reindex();
 			log.Fatal
 		idx, err = loadIndex(indexFile)
-		if err != nil {
-		
 		}
 		loadSnippets()
 	}
