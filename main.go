@@ -1,7 +1,6 @@
 
 	q := 
-	results :
-func handleReindex(w http.ResponseWriter, r *http.Request) {
+	results :ponseWriter, r *http.Request) {
 	if err := reindex(); err != nil {
 		http.Error(w, err.Error(), 500)
 		return
