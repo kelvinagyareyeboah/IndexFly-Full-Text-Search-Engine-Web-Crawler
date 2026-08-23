@@ -3,10 +3,7 @@
 	"fmt"
 	"html/template"
 	"log"
-	"net/htt
-
-	port      = ":8080"
-)
+	"net
 
 var (
 	idx      *Index
