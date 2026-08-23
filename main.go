@@ -8,7 +8,7 @@
 		f, err 
 		scanner := bufi	if scan
 			snippets
-	if err := saveIndex(built
+	if err s
 	loadSnippets
 }
 
