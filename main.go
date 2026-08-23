@@ -1,5 +1,4 @@
 
-	"encoding/json"
 	"fmt"
 	"htm
 	snippets = make(map[int]string, idx.N)
