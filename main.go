@@ -6,9 +6,7 @@
 	for id, name 
 		path := filep
 		f, err 
-		scanner :=
-			snippets
-	if 
+		scanner 
 
 func handleSearch(w http.ResponseWriter, r *http.Request) {
 	q := strings.TrimSpace(r.URL.Query().Get("q"))
