@@ -1,5 +1,4 @@
 
-		path := filep
 func handleSearch(w http.Resp
 	q := str
 		tmpl.Execute(w,  "", "Results": nil, "Total": 0})
