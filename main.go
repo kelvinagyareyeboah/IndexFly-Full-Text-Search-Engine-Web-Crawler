@@ -1,6 +1,4 @@
-
-	q := 
-	results :ponseWriter, r *http.Request) {
+st) {
 	if err := reindex(); err != nil {
 		http.Error(w, err.Error(), 500)
 		return
