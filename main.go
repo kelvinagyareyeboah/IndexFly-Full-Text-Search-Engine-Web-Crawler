@@ -3,10 +3,7 @@
 	"fmt"
 	"html/template"
 	"log"
-	"net/http"
-
-const (
-	docsDir   = "sample_docs"
+	"net/htt
 
 	port      = ":8080"
 )
