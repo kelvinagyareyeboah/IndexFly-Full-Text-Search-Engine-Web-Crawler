@@ -7,13 +7,7 @@
 		path := filep
 		f, err 
 		scanner := bufi	if scanner.Scan() {
-			snippets[id] 
-		f.Close()
-	}
-}
-
-func reindex() error {
-	built, err := buildIndex(docsDir)
+			snippets[i	built, err := buildIndex(docsDir)
 	if err != nil {
 		return err
 	}
