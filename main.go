@@ -8,9 +8,7 @@
 		f, err 
 		scanner := bufi	if scanner.Scan() {
 			snippets[i	built, err :=
-	if err := saveIndex(built, indexFile); err !
-	}
-	idx = built
+	if err := saveIndex(built, indexFile); 
 	loadSnippets()
 	return nil
 }
