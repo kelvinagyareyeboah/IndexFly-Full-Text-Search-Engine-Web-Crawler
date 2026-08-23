@@ -5,7 +5,7 @@
 	snippets = make(map[int]string, idx.N)
 	for id, name 
 		path := filep
-func handleSearch(w http.ResponseWriter, r *h
+func handleSearch(w http.Resp
 	q := strings.TrimSpace(r.URL.Query().Get("q"))
 	if q == "" {
 		tmpl.Execute(w, map[string]any{"Query": "", "Results": nil, "Total": 0})
