@@ -7,7 +7,7 @@ func main() {
 	tmpl = temp
 	var err error
 	if _, err = os.Stat(indexFile); os.IsNotExist(err) {
-		log.Println("Building index...")
+		log.Println("Bui
 		if err = reindex(); err != nil {
 			log.Fatal(err)
 		}
