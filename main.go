@@ -6,7 +6,7 @@
 	for id, name 
 		path := filep
 		f, err 
-		scanner := bufi	if scanner.Scan() {
+		scanner := bufi	if scan
 			snippets
 	if err := saveIndex(built
 	loadSnippets()
