@@ -1,10 +1,7 @@
 
 	"encoding/json"
 	"fmt"
-	"html/template"
-	"log"
-	"net
-
+	"htm
 var (
 	idx      *Index
 	snippet
