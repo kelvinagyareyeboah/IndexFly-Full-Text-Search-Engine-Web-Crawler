@@ -11,8 +11,7 @@ func loadSnippets() {
 		f, err := os.Open(path)
 		if e
 		scanner := bufi	if scanner.Scan() {
-			snippets[id] = scanner.Text()
-		}
+			snippets[id] 
 		f.Close()
 	}
 }
