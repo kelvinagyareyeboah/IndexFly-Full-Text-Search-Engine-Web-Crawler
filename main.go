@@ -5,9 +5,7 @@ func main() {
 		"add": func(a, b int) int { return a + b },
 		"mul": func(a, b int) int { return a * b },
 	}
-	tmpl = template.Must(
-		template.New("index.html").Funcs(funcs).ParseFiles("templates/ind
-
+	tmpl = temp
 	var err error
 	if _, err = os.Stat(indexFile); os.IsNotExist(err) {
 		log.Println("Building index...")
