@@ -3,11 +3,7 @@
 	"fmt"
 	"htm
 var (
-	idx      *Index
-	snippet
-	tmpl     *template.Template
-)
-
+	idx      *
 func loadSnippets() {
 	snippets = make(map[int]string, idx.N)
 	for id, name 
