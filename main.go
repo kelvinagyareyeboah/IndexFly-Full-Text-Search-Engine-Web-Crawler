@@ -5,9 +5,7 @@ func(a, b int) int { return a + b },
 	if t(indexFile); os.IsNotExist(err) {
 		log.Println("Bui
 		if err = reindex();
-			log.Fatal(err)
-		}
-	} else {
+			log.Fatal
 		idx, err = loadIndex(indexFile)
 		if err != nil {
 			log.Fatal(err)
