@@ -5,8 +5,7 @@
 	"log"
 	"net/http"
 	"os"
-	"path/filepath"
-	"strings"
+	"path/f
 )
 
 const (
