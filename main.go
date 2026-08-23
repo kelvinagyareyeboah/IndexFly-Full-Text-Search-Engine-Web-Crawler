@@ -1,4 +1,4 @@
-func(a, b int) int { return a + b },
+ return a + b },
 		"mul": func(a, b int) int { ret
 	tmpl = temp
 	
