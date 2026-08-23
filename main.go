@@ -1,7 +1,4 @@
-xist(err) {
-		log.Printl();
-			log.
-		loadSnippets()
+
 	}
 
 	http.HandleFunc("/", handleSearch)
