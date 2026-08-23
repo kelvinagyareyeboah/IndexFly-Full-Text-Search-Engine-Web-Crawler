@@ -10,8 +10,7 @@
 			snippets[i	built, err := buildIndex(doc
 		return err
 	}
-	if err := saveIndex(built, indexFile); err != nil {
-		return err
+	if err := saveIndex(built, indexFile); err !
 	}
 	idx = built
 	loadSnippets()
