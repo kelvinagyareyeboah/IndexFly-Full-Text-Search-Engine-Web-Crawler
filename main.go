@@ -1,8 +1,6 @@
 xist(err) {
 		log.Printl();
-			log.Fatal
-		idx, err = loadIndex(indexFile)
-		}
+			log.
 		loadSnippets()
 	}
 
