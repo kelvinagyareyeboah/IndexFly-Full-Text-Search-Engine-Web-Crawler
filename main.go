@@ -2,9 +2,6 @@
 	"encoding/json"
 	"fmt"
 	"htm
-var (
-	idx      *
-fu
 	snippets = make(map[int]string, idx.N)
 	for id, name 
 		path := filep
