@@ -1,6 +1,4 @@
-
-	}
-	json.NewEncoder(w).Encode(map[string]any{"ok": true, "docs": idx.N, "terms": len(idx.InvertedIndex)})
+ap[string]any{"ok": true, "docs": idx.N, "terms": len(idx.InvertedIndex)})
 }
 
 func main() {
