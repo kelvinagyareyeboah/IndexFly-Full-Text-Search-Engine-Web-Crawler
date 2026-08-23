@@ -1,7 +1,4 @@
-
-	"fmt"
-	"htm
-	snippets = make(map[int]string, id
+nt]string, id
 		path := filep
 func handleSearch(w http.Resp
 	q := strings.TrimSpace(r.URL.Query().Get("q"))
