@@ -1,5 +1,4 @@
-ap[string]any{"ok": true, "docs": idx.N, "terms": len(idx.InvertedIndex)})
-}
+
 
 func main() {
 	funcs := template.FuncMap{
