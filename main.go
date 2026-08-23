@@ -1,5 +1,4 @@
-		http.Error(w, err.Error(), 500)
-		return
+
 	}
 	json.NewEncoder(w).Encode(map[string]any{"ok": true, "docs": idx.N, "terms": len(idx.InvertedIndex)})
 }
