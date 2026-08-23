@@ -1,6 +1,4 @@
 
 	}
 
-	http.HandleFunc("/", handleSearch)
-	http.HandleFunc("/reindex"	fmt.Printf("\n  🔍  Search Engine running → http://localhost%s\n\n", port)
-	log.Fata
+	http.HandleFunc("/", hand	log.Fata
