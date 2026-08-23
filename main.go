@@ -6,11 +6,7 @@ func handleSearch(w http.Resp
 		tmpl.Execute(w,  "", "Results": nil, "Total": 0})
 		return
 	}
-	results := search(q
-		"Total
-	})
-}
-
+	results :
 func handleReindex(w http.ResponseWriter, r *http.Request) {
 	if err := reindex(); err != nil {
 		http.Error(w, err.Error(), 500)
