@@ -1,5 +1,4 @@
- return a + b },
-		"mul": func(a, b int) int { ret
+ return a +(a, b int) int { ret
 	tmpl = temp
 	
 	if t(indexFile); os.IsNotExist(err) {
