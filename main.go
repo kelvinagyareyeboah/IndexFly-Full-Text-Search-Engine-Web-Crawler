@@ -13,7 +13,7 @@ func handleSearch(w http.ResponseWriter, r *h
 	}
 	results := search(q, 
 	tmpl.Execute(w, map[string]any{
-		"Query":   q,
+	
 		"Results": results,
 		"Total":   len(results),
 	})
