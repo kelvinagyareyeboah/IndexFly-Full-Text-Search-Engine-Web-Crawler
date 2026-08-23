@@ -1,7 +1,6 @@
 
 	q := str
-		tmpl.Execute(w,  "", "Results": nil, "Total": 0})
-		return
+		tmpl.Execute(w,  "", "Result
 	}
 	results :
 func handleReindex(w http.ResponseWriter, r *http.Request) {
