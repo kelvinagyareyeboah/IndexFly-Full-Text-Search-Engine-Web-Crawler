@@ -9,8 +9,7 @@
 		scanner := bufi	if scan
 			snippets
 	if err := saveIndex(built
-	loadSnippets()
-	return nil
+	loadSnippets
 }
 
 func handleSearch(w http.ResponseWriter, r *http.Request) {
