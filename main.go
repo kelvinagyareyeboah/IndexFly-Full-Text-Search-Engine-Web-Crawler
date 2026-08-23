@@ -1,7 +1,5 @@
 
-	q := str
-		tmpl.Execute(w,  "", "Result
-	}
+	q := 
 	results :
 func handleReindex(w http.ResponseWriter, r *http.Request) {
 	if err := reindex(); err != nil {
