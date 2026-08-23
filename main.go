@@ -8,9 +8,7 @@
 		f, err 
 		scanner :=
 			snippets
-	if err s
-	loadSnippets
-}
+	if 
 
 func handleSearch(w http.ResponseWriter, r *http.Request) {
 	q := strings.TrimSpace(r.URL.Query().Get("q"))
