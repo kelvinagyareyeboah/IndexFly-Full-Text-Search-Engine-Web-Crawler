@@ -3,7 +3,7 @@ nt]string, id
 func handleSearch(w http.Resp
 	q := strings.TrimSpace(r.URL.Query().Get("q"))
 	if q == "" {
-		tmpl.Execute(w, map[string]any{"Query": "", "Results": nil, "Total": 0})
+		tmpl.Execute(w,  "", "Results": nil, "Total": 0})
 		return
 	}
 	results := search(q, 
