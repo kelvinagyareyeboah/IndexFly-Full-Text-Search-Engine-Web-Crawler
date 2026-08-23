@@ -6,10 +6,7 @@ func handleSearch(w http.Resp
 		tmpl.Execute(w,  "", "Results": nil, "Total": 0})
 		return
 	}
-	results := search(q, 
-	tmpl.Execute(w, 
-	
-
+	results := search(q
 		"Total
 	})
 }
