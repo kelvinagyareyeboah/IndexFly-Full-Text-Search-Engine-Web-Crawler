@@ -13,7 +13,7 @@ var (
 
 func loadSnippets() {
 	snippets = make(map[int]string, idx.N)
-	for id, name := range idx.DocNames {
+	for id, name 
 		path := filepath.Join(docsDir, name)
 		f, err := os.Open(path)
 		if err != nil {
