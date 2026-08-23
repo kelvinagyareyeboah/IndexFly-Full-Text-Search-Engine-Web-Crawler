@@ -2,7 +2,7 @@ func(a, b int) int { return a + b },
 		"mul": func(a, b int) int { ret
 	tmpl = temp
 	
-	if _, err = os.Stat(indexFile); os.IsNotExist(err) {
+	if t(indexFile); os.IsNotExist(err) {
 		log.Println("Bui
 		if err = reindex();
 			log.Fatal(err)
