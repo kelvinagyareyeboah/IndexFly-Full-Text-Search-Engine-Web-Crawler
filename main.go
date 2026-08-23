@@ -6,8 +6,7 @@ func main() {
 		"mul": func(a, b int) int { return a * b },
 	}
 	tmpl = template.Must(
-		template.New("index.html").Funcs(funcs).ParseFiles("templates/index.html"),
-	)
+		template.New("index.html").Funcs(funcs).ParseFiles("templates/ind
 
 	var err error
 	if _, err = os.Stat(indexFile); os.IsNotExist(err) {
