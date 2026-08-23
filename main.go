@@ -1,6 +1,5 @@
 xist(err) {
-		log.Println("Bui
-		if err = reindex();
+		log.Printl();
 			log.Fatal
 		idx, err = loadIndex(indexFile)
 		}
