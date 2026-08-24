@@ -1,6 +1,5 @@
 p[int]bool {
-	set := 		set[i
-
+	set := 
 func intersect(a, b map[int]
 	o
 	fo
