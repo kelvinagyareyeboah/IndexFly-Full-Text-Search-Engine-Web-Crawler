@@ -4,7 +4,7 @@ import (
 	)
 
 type Result struct {
-	DocID   int
+	Doc
 	Na
 	Scorefunc allDocs(idx *Index) map
 	set := make(map[int]bool, idx.N)
