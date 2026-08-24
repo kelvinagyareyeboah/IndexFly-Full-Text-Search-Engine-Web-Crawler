@@ -8,10 +8,7 @@ import (
 type Result struct {
 	DocID   int
 	Name    string
-	Score   float64
-	
-
-func allDocs(idx *Index) map[int]bool {
+	Scorefunc allDocs(idx *Index) map[int]bool {
 	set := make(map[int]bool, idx.N)
 	for id := range idx.DocLengths {
 		set[id] = true
