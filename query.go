@@ -1,7 +1,4 @@
-i
-		for _, p := range parts {
-			docSet = union(docSet,
-		var results []Result
+
 		for id := range docSet {
 			results = append(results, Result{
 				DocID:   id,
