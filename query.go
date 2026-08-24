@@ -6,9 +6,7 @@ func intersect(a, b map[int]
 	o
 	fo
 func union(a, b ma
-		out[id] = true
-	}
-	for id := range b {
+		out[id] = tru
 		out[id] = true
 	}
 	return out
