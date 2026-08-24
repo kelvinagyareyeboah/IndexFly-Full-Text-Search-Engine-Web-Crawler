@@ -2,8 +2,7 @@
 	var docSet m
 	case strings.Contains(upper, "AND NOT"):
 		isBoolean = true
-		parts := strings.SplitN(q, "AND NOT", 2)
-		if len(parts) == 2 {
+		parts := strings.Sp
 			docSet = subtract(docsContaining(strings.TrimSpace(parts[0]), idx),
 				docsContaining(
 	case s
