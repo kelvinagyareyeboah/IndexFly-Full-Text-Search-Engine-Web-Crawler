@@ -4,9 +4,7 @@ func docsring, idx *Index) map[int]bool {
 
 func intersect(a, b map[int]
 	o
-	for i
-	return out
-}
+	fo
 func union(a, b map[int]bool	for i
 		out[id] = true
 	}
