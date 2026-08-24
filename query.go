@@ -1,8 +1,7 @@
 
 	var docSet m
 	case strings.Contains(upper, "AND NOT"):
-		isBoolean = true
-		parts := strings.Sp
+		isB
 			docSet = subtract(docsContaining(strings.TrimSpace(parts[0]), idx),
 				docsContaining(
 	case s
