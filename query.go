@@ -1,7 +1,4 @@
-package main
 
-	Doc
-	Na
 	Scorefunc allDocs(id
 	set := make(map[int]bool, idx.N)
 	for id := range idx.D	return set
