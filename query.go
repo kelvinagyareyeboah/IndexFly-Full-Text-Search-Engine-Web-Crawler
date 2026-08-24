@@ -9,8 +9,7 @@ func sear
 		parts := strings.SplitN(q, "AND NOT", 2)
 		if len(parts) == 2 {
 			docSet = subtract(docsContaining(strings.TrimSpace(parts[0]), idx),
-				docsContaining(strings.TrimSpace(parts[1]), idx))
-		}
+				docsContaining(strings.TrimSpace
 	case strings.Contains(upper, " AND "):
 		isBoolean = true
 		parts := strings.Split(q, " AND ")
