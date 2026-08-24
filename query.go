@@ -7,7 +7,7 @@ import (
 
 type Result struct {
 	DocID   int
-	Name    string
+	Na
 	Scorefunc allDocs(idx *Index) map[int]bool {
 	set := make(map[int]bool, idx.N)
 	for id := range idx.DocLengths {
