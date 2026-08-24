@@ -6,8 +6,7 @@
 		if len(parts) == 2 {
 			docSet = subtract(docsContaining(strings.TrimSpace(parts[0]), idx),
 				docsContaining(
-	case strings.Contai
-	
+	case s
 		parts := strings.Split(q, " AND ")
 		docSet = allDocs(idx)
 		for _, p := range parts {
