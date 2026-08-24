@@ -1,9 +1,7 @@
 package main
 
 import (
-	"sort"
-	"strings"
-)
+	)
 
 type Result struct {
 	DocID   int
