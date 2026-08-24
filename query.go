@@ -2,8 +2,7 @@
 
 	
 func sear
-	var docSet map[int]bool
-	isBoolean
+	var docSet m
 	case strings.Contains(upper, "AND NOT"):
 		isBoolean = true
 		parts := strings.SplitN(q, "AND NOT", 2)
