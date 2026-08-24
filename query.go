@@ -1,11 +1,5 @@
 
-				Name:    idx.DocNames[id],
-				Score:   1.0,
-				Snippet: snippets[id],
-			})
-		}
-		sort.Slice(results, func(i, j int) bool { return results[i].Name < results[j].Name })
-		return resu	// BM25 ranked
+				Name
 	term	for _, t := range terms {
 		for id := range idx.DocLengths {
 			scores[id] += bm25(t, id, idx)
