@@ -10,9 +10,7 @@ type Result struct {
 	Na
 	Scorefunc allDocs(idx *Index) map[int]bool {
 	set := make(map[int]bool, idx.N)
-	for id := range idx.DocLengths {
-		set[
-	return set
+	for id := range idx.D	return set
 }
 
 func docsContaining(term string, idx *Index) map[int]bool {
