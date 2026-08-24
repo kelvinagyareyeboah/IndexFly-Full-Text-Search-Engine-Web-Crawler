@@ -11,7 +11,7 @@ func intersect(a, b map[int]bot]bool {
 	out := make(map[i
 	for id := range a {
 		if b[id] {
-			out[id] = true
+			
 		}
 	}
 	return out
