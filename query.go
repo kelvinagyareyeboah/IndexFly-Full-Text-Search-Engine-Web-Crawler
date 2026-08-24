@@ -5,9 +5,7 @@
 			docSet = subtract(docsContaining(strings.TrimSpace(parts[0]), idx),
 				docsContaining(
 	case s
-		parts := strings.Split(q, " AND ")
-		docSet = allDocs(idx)
-		for _, p := range parts {
+		parts := strings.Split(q		for _, p := range parts {
 			docSet = intersect(docSet, docsContaining(strings.Trimdx))
 		}
 	case strings.Contains(upper, " OR "):
