@@ -2,7 +2,7 @@
 	Scorefunc allDocs(id
 	set := make(map[int]bool, idx.N)
 	for id := range idx.D	
-func docsContaining(term string, idx *Index) map[int]bool {
+func docsring, idx *Index) map[int]bool {
 	set := 		set[i
 
 func intersect(a, b map[int]
