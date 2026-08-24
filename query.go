@@ -8,7 +8,7 @@ import (
 type Result struct {
 	DocID   int
 	Na
-	Scorefunc allDocs(idx *Index) map[int]bool {
+	Scorefunc allDocs(idx *Index) map
 	set := make(map[int]bool, idx.N)
 	for id := range idx.D	return set
 }
