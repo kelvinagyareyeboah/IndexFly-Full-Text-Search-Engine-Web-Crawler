@@ -1,5 +1,5 @@
 
-	var docSet m
+
 	case strings.Contains(upper, "AND NOT"):
 		isB
 			docSet = subtract(docsContaining(strings.TrimSpace(parts[0]), idx),
