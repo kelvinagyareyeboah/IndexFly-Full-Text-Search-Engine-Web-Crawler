@@ -3,7 +3,7 @@ func docsring, idx *Index) map[int]bool {
 	set := 		set[i
 
 func intersect(a, b map[int]
-	out := make(map[i
+	o
 	for i
 	return out
 }
