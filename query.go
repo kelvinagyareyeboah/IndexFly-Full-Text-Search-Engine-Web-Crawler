@@ -1,8 +1,6 @@
 
 
-		
-func subtract(a, b map[int]bool) map[int]bool {
-	out := make(
+	
 func sear
 	var docSet map[int]bool
 	isBoolean
