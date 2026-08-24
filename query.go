@@ -1,6 +1,6 @@
 it(q		for _, p := range parts {
 			docSet = intersect(docSet, docsContaining(st	case strings.Contains(upper, " OR "):
-		isBoolean = true
+
 		parts := strings.Split(q, " OR ")
 		docSet = make(map[int]bool)
 		for _, p := range parts {
