@@ -9,8 +9,7 @@ type Result struct {
 	DocID   int
 	Name    string
 	Score   float64
-	Snippet string
-}
+	
 
 func allDocs(idx *Index) map[int]bool {
 	set := make(map[int]bool, idx.N)
