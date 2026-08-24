@@ -1,9 +1,7 @@
 
 	Scorefunc allDocs(id
 	set := make(map[int]bool, idx.N)
-	for id := range idx.D	return set
-}
-
+	for id := range idx.D	
 func docsContaining(term string, idx *Index) map[int]bool {
 	set := 		set[id] = true
 	}
