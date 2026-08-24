@@ -1,7 +1,4 @@
 
-
-	case strings.Contains(upper, "AND NOT"):
-		isB
 			docSet = subtract(docsContaining(strings.TrimSpace(parts[0]), idx),
 				docsCont
 		parts := strings.Split(q		for _, p := range parts {
