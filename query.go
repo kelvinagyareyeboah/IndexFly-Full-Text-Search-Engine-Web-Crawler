@@ -1,12 +1,11 @@
-
-				Name
-	term	for _, t := range terms {
+:= range terms {
 		for id := range idx.DocLengths {
 			scores[id] += bm25(t, id, idx)
 		}
 	}
 	var results []Result
 	for id, score := range scores {
+	
 		if score > 0 {
 			results = append(results, Result{
 				DocID:   id,
