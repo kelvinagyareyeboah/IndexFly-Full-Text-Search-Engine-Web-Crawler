@@ -5,9 +5,7 @@
 }
 
 func docsContaining(term string, idx *Index) map[int]bool {
-	set := make
-	for id := range idx.InvertedIndex[strings.To)] {
-		set[id] = true
+	set := 		set[id] = true
 	}
 	return set
 }
