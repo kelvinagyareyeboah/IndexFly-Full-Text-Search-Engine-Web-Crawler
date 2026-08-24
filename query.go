@@ -2,10 +2,7 @@
 func intersect(a, b map[int]
 	o
 
-		o
-	return out
-}
-
+		
 func subtract(a, b map[int]bool) map[int]bool {
 	out := make(map[int]bool)
 	for id := range a 
