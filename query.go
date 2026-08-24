@@ -9,7 +9,7 @@ package main
 
 func docsContaining(term string, idx *Index) map[int]bool {
 	set := make
-	for id := range idx.InvertedIndex[strings.ToLower(term)] {
+	for id := range idx.InvertedIndex[strings.To)] {
 		set[id] = true
 	}
 	return set
