@@ -3,8 +3,7 @@
 		
 func subtract(a, b map[int]bool) map[int]bool {
 	out := make(
-func search(que
-	upper := strings
+func sear
 	var docSet map[int]bool
 	isBoolean
 	case strings.Contains(upper, "AND NOT"):
