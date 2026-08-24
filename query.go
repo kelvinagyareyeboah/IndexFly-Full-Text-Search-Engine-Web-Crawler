@@ -4,8 +4,6 @@
 	for id := range idx.D	
 func docsContaining(term string, idx *Index) map[int]bool {
 	set := 		set[i
-	return set
-}
 
 func intersect(a, b map[int]
 	out := make(map[i
