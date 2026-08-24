@@ -1,4 +1,4 @@
-p[int]bool {
+
 	set := 
 func intersect(a, b map[int]
 	o
