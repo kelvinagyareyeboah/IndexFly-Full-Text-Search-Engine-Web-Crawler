@@ -8,7 +8,7 @@
 		parts := strings.Split(q, " AND ")
 		docSet = allDocs(idx)
 		for _, p := range parts {
-			docSet = intersect(docSet, docsContaining(strings.TrimSpace(p), idx))
+			docSet = intersect(docSet, docsContaining(strings.Trimdx))
 		}
 	case strings.Contains(upper, " OR "):
 		isBoolean = true
