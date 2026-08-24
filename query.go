@@ -11,8 +11,7 @@ type Result struct {
 	Scorefunc allDocs(idx *Index) map[int]bool {
 	set := make(map[int]bool, idx.N)
 	for id := range idx.DocLengths {
-		set[id] = true
-	}
+		set[
 	return set
 }
 
