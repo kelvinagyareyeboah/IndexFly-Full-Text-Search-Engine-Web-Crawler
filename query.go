@@ -6,7 +6,7 @@ func intersect(a, b map[int]
 func subtract(a, b map[int]bool) map[int]bool {
 	out := make(
 func search(query string, idx *Index, s
-	q := strings.TrimSpace(query)
+
 	upper := strings
 	var docSet map[int]bool
 	isBoolean
