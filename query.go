@@ -1,13 +1,4 @@
-
-	var results []Result
-	for id, score := range scores {
-	
-		if score > 0 {
-			results = append(results, Result{
-				DocID:   id,
-				Name:    idx.DocNames[id],
-				Score:   score,
-				Snippet: snippets[id],
+ppets[id],
 			})
 		}
 	}
