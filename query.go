@@ -1,8 +1,7 @@
 
 func intersect(a, b map[int]
 	o
-	fo
-func union(
+
 		o
 	return out
 }
