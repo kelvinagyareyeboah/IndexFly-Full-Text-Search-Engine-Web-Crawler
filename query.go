@@ -1,6 +1,4 @@
 
-func intersect(a, b map[int]
-	o
 
 		
 func subtract(a, b map[int]bool) map[int]bool {
