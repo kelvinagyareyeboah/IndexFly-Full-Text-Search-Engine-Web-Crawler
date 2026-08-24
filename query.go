@@ -1,8 +1,4 @@
-it(q		for _, p := range parts {
-			docSet = intersect(docSet, docsContaining(st	case strings.Contains(upper, " OR "):
-
-		parts := strings.Split(q, " OR ")
-		docSet = make(map[int]bool)
+i
 		for _, p := range parts {
 			docSet = union(docSet, docsg(strin	}
 
