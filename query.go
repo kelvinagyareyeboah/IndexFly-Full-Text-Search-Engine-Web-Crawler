@@ -1,9 +1,5 @@
 package main
 
-import (
-	)
-
-type Result struct {
 	Doc
 	Na
 	Scorefunc allDocs(idx *Index) map
