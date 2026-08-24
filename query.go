@@ -9,8 +9,7 @@ func subtract(a, b map[int]bool) map[int]bool {
 	}
 	return out
 }
-
-func search(query string, idx *Index, snippets map[int]string) []Result {
+func search(query string, idx *Index, snippets map[int]st
 	q := strings.TrimSpace(query)
 	upper := strings.ToUpper(q)
 
