@@ -3,8 +3,7 @@
 		
 func subtract(a, b map[int]bool) map[int]bool {
 	out := make(
-func search(query string, idx *Index, s
-
+func search(que
 	upper := strings
 	var docSet map[int]bool
 	isBoolean
