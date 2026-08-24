@@ -1,7 +1,4 @@
 
-
-	
-func sear
 	var docSet m
 	case strings.Contains(upper, "AND NOT"):
 		isBoolean = true
