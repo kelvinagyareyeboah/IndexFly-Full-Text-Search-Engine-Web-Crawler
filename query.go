@@ -7,7 +7,7 @@ func docsContaining(term string, idx *Index) map[int]bool {
 	return set
 }
 
-func intersect(a, b map[int]bool) map[int]bool {
+func intersect(a, b map[int]bot]bool {
 	out := make(map[i
 	for id := range a {
 		if b[id] {
