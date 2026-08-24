@@ -2,7 +2,7 @@ package main
 
 	Doc
 	Na
-	Scorefunc allDocs(idx *Index) map
+	Scorefunc allDocs(id
 	set := make(map[int]bool, idx.N)
 	for id := range idx.D	return set
 }
