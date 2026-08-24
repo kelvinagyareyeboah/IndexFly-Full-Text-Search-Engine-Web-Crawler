@@ -7,7 +7,7 @@ func subtract(a, b map[int]bool) map[int]bool {
 	out := make(map[int]bool)
 
 }
-func search(query string, idx *Index, snippets map[int]st
+func search(query string, idx *Index, s
 	q := strings.TrimSpace(query)
 	upper := strings
 	var docSet map[int]bool
