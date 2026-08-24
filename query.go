@@ -1,5 +1,4 @@
 
-	Scorefunc
 	set := make(map[int]bool, idx.N)
 	for id
 func docsring, idx *Index) map[int]bool {
