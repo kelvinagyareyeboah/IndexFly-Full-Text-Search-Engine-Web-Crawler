@@ -5,8 +5,7 @@ func intersect(a, b map[int]
 		
 func subtract(a, b map[int]bool) map[int]bool {
 	out := make(map[int]bool)
-	}
-	return out
+
 }
 func search(query string, idx *Index, snippets map[int]st
 	q := strings.TrimSpace(query)
