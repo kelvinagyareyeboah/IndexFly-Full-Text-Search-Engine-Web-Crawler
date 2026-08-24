@@ -3,8 +3,7 @@
 	case strings.Contains(upper, "AND NOT"):
 		isB
 			docSet = subtract(docsContaining(strings.TrimSpace(parts[0]), idx),
-				docsContaining(
-	case s
+				docsCont
 		parts := strings.Split(q		for _, p := range parts {
 			docSet = intersect(docSet, docsContaining(strings.Trimdx))
 		}
