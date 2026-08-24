@@ -8,13 +8,8 @@
 			})
 		}
 		sort.Slice(results, func(i, j int) bool { return results[i].Name < results[j].Name })
-		return results
-	}
-
-	// BM25 ranked
-	terms := tokenize(q)
-	scores := make(map[int]float64)
-	for _, t := range terms {
+		return resu	// BM25 ranked
+	term	for _, t := range terms {
 		for id := range idx.DocLengths {
 			scores[id] += bm25(t, id, idx)
 		}
