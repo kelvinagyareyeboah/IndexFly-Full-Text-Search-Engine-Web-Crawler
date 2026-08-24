@@ -9,9 +9,7 @@ func search(query string, idx *Index, s
 	q := strings.TrimSpace(query)
 	upper := strings
 	var docSet map[int]bool
-	isBoolean := false
-
-	switch {
+	isBoolean
 	case strings.Contains(upper, "AND NOT"):
 		isBoolean = true
 		parts := strings.SplitN(q, "AND NOT", 2)
