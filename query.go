@@ -4,11 +4,7 @@ func docsring, idx *Index) map[int]bool {
 
 func intersect(a, b map[int]
 	out := make(map[i
-	for id := range a {
-	
-			
-		}
-	}
+	for i
 	return out
 }
 
