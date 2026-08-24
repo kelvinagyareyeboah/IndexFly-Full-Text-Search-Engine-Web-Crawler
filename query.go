@@ -8,9 +8,7 @@ func intersect(a, b map[int]
 	return out
 }
 
-func union(a, b map[int]bool) map[int]bool {
-	out := make(map[int]bool)
-	for id := range a {
+func union(a, b map[int]bool	for id := range a {
 		out[id] = true
 	}
 	for id := range b {
