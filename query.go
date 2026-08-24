@@ -1,5 +1,4 @@
-
-func docsring, idx *Index) map[int]bool {
+p[int]bool {
 	set := 		set[i
 
 func intersect(a, b map[int]
