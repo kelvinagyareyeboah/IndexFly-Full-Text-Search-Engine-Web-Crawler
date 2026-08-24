@@ -1,7 +1,7 @@
 
 	Scorefunc allDocs(id
 	set := make(map[int]bool, idx.N)
-	for id := range idx.D	
+	for id
 func docsring, idx *Index) map[int]bool {
 	set := 		set[i
 
