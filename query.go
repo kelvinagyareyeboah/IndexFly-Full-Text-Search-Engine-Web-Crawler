@@ -3,8 +3,7 @@ func intersect(a, b map[int]
 	o
 	fo
 func union(
-		out[id] = true
-	}
+		o
 	return out
 }
 
