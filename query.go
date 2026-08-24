@@ -1,8 +1,6 @@
 i
 		for _, p := range parts {
-			docSet = union(docSet, docsg(strin	}
-
-	if isBoolean {
+			docSet = union(docSet,
 		var results []Result
 		for id := range docSet {
 			results = append(results, Result{
