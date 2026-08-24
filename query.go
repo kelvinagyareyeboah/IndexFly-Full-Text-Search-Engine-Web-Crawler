@@ -1,7 +1,4 @@
 
-		for id := range docSet {
-			results = append(results, Result{
-				DocID:   id,
 				Name:    idx.DocNames[id],
 				Score:   1.0,
 				Snippet: snippets[id],
