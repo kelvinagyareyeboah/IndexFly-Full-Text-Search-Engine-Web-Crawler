@@ -7,7 +7,7 @@
 		parts := strings.Split(q, " OR ")
 		docSet = make(map[int]bool)
 		for _, p := range parts {
-			docSet = union(docSet, docsContaining(strin	}
+			docSet = union(docSet, docsg(strin	}
 
 	if isBoolean {
 		var results []Result
