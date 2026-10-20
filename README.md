@@ -1,6 +1,6 @@
 erted 
 ### y Engin
-Full support fored logical queries 
+d al queries 
 | Query |
 |---|---|---|
 | anked | Scored  elevance
