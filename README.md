@@ -1,6 +1,6 @@
 erted 
 ### y Engin
-Full support for structured logical queries 
+Full support fored logical queries 
 | Query |
 |---|---|---|
 | anked | Scored by elevance across the index |
