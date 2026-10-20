@@ -2,11 +2,7 @@ ueries · inverted i[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-3
 
 ---
 
-## `$ ls features/`
-
-### 🔍 BM25 Ranking
-Industry-standard probabilistic relevance scoring — the same algorithm that powers Elasticsearch and Lucene. Results ranked by term frequency, inverse document frequency, and document length normalization.
-
+## `$ ls feat### 🔍 
 ### 🧮 Boolean Query Engine
 Full support for structured logical queries parsed at the token level:
 
