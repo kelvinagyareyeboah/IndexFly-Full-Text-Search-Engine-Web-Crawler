@@ -3,8 +3,8 @@ erted
 Full support for structured logical queries 
 | Query |
 |---|---|---|
-| anked | Scored by relevance across the index |
-| `machine AND learning` | Boolean AND | Documents conta |
+| anked | Scored by elevance across the index |
+| g` | Boolean AND | Documents conta |
 | `database OR python` | Boolean OR | Documents containing **either** term |
 | `database AND NOT SQL` | Boolean AND NOT | Match `database`, exclude `SQL` |
 
