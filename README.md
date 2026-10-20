@@ -8,7 +8,7 @@ Full support for structured logical queries parsed at the token level:
 
 | Query |
 |---|---|---|
-| `python data` | BM25 ranked | Scored by relevance across the index |
+| anked | Scored by relevance across the index |
 | `machine AND learning` | Boolean AND | Documents conta |
 | `database OR python` | Boolean OR | Documents containing **either** term |
 | `database AND NOT SQL` | Boolean AND NOT | Match `database`, exclude `SQL` |
