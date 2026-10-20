@@ -5,7 +5,7 @@
 ██║██║ ╚████║██████╔╝███████╗██╔╝
 
 
-**Custom full-text search engine · web crawler · BM25 ranking · Boolean queries · inverted i[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=161b22)](https://tailwi[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-39d353?style=flat-square&labelColor=161b22)](./CONTRIBU
+**Custom full-text search engine · web crawler · B queries · inverted i[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=161b22)](https://tailwi[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-39d353?style=flat-square&labelColor=161b22)](./CONTRIBU
 
 ## `$ whoami`
 
