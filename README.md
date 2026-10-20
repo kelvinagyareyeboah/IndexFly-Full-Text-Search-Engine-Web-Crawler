@@ -6,7 +6,7 @@ ueries · inverted i[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-3
 ### 🧮 Boolean Query Engine
 Full support for structured logical queries parsed at the token level:
 
-| Query | Mode | Behaviour |
+| Query |
 |---|---|---|
 | `python data` | BM25 ranked | Scored by relevance across the index |
 | `machine AND learning` | Boolean AND | Documents conta |
