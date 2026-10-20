@@ -1,4 +1,4 @@
-ed i[![Tailwind s Wel grade **inverted index**, alevance rankinand a full **Boolean a Go-powered API backend a> "*
+ed i[![Tailwind s Wel grade **inverted index**, alevance rankinand a full **Boolean a  backend a> "*
 
 ---
 
