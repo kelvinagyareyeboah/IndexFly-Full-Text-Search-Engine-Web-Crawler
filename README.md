@@ -1,8 +1,8 @@
 erted index**, alevance  a>
 -
 ## 
-### y Engine
-Full support for structured logical queries parsed at the 
+### y Engin
+Full support for structured logical queries 
 | Query |
 |---|---|---|
 | anked | Scored by relevance across the index |
