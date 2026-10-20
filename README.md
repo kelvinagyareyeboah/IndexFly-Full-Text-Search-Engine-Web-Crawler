@@ -1,4 +1,4 @@
-ed i[![Tailwind s Wel  its a production-grade **inverted index**, alevance ranking** aand a full **Boolean query AND NOT) with a Go-powered API backend a> *"Understanding sea."*
+ed i[![Tailwind s Wel roduction-grade **inverted index**, alevance ranking** aand a full **Boolean query AND NOT) with a Go-powered API backend a> *"Understanding sea."*
 
 ---
 
