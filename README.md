@@ -1,4 +1,4 @@
-ed i[![Tailwind s Welcome](https://img.shields.io/badge/PRs-welcome-39d353?style=flsno Elasticsearch, . It implements a production-grade **inverted index**, alevance ranking** aand a full **Boolean query parser** (AND / OR / AND NOT) with a Go-powered API backend a> *"Understanding sea."*
+ed i[![Tailwind s Welcome](https://img.shields.i/badge/PRs-welcome-39d353?style=flsno Elarch, . It implements a production-grade **inverted index**, alevance ranking** aand a full **Boolean query parser** (AND / OR / AND NOT) with a Go-powered API backend a> *"Understanding sea."*
 
 ---
 
