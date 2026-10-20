@@ -3,7 +3,7 @@ erted
 Full support fored logical queries 
 | Query |
 |---|---|---|
-| anked | Scored by elevance across the index |
+| anked | Scored  elevance
 | g` | Boolean AND | Documents conta |
 | `database OR python` | Boolean OR | Documents containing **either** term |
 | `database AND NOT SQL` | Boolean AND NOT | Match `database`, exclude `SQL` |
