@@ -11,9 +11,7 @@
 
 **Custom full-text search engine · web crawler · BM25 ranking · Boolean queries · inverted index**
 
-[![Go](https://img.shields.io/badge/Go-1.21+-00add8?style=flat-square&logo=go&logoColor=white&labelColor=161b22)](https://go.dev)
-[![React](https://img.shields.io/badge/React-18.x-61dafb?style=flat-square&logo=react&logoColor=white&labelColor=161b22)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=161b22)](https://typescriptlang.org)
+[![Go](https://img.shields.io/badge/Go-1.21+-00add8?style=flat-square&logo=go&logoColor=white&labelColor=161b[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript&logoColor=white&labelColor=161b22)](https://typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=161b22)](https://tailwindcss.com)
 [![License](https://img.shields.io/badge/License-MIT-bc8cff?style=flat-square&labelColor=161b22)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-39d353?style=flat-square&labelColor=161b22)](./CONTRIBUTING.md)
