@@ -1,4 +1,4 @@
-ed i[![Tailwind CSS](https://is.io/badge/Tailwind-3.x-38bdf8?ssquare&logo=tailwindcss&logoColor=white&labelColor=161b22)](https://tailwi[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-39d353?style=flat-squarom full-text search engine b no Elasticsearch, . It implements a production-grade **inverted index**, alevance ranking** algorithm, and a full **Boolean query parser** (AND / OR / AND NOT) with a Go-powered API backend a> *"Understanding sea."*
+ed i[![Tailwind nd-3.x-38bdf8?ssquare&logo=tailwindcss&logoColor=white&labelColor=161b22)](https://tailwi[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-39d353?style=flat-squarom full-text search engine b no Elasticsearch, . It implements a production-grade **inverted index**, alevance ranking** algorithm, and a full **Boolean query parser** (AND / OR / AND NOT) with a Go-powered API backend a> *"Understanding sea."*
 
 ---
 
