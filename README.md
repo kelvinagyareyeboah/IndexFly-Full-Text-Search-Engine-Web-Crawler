@@ -3,8 +3,7 @@ erted index**, alevance rankinand a full **Boolean a  backend a>
 
 ## 
 ### 🧮 Boolean Query Engine
-Full support for structured logical queries parsed at the token level:
-
+Full support for structured logical queries parsed at the 
 | Query |
 |---|---|---|
 | anked | Scored by relevance across the index |
