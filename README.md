@@ -1,6 +1,4 @@
-erted index**, alevance  a>
--
-## 
+erted 
 ### y Engin
 Full support for structured logical queries 
 | Query |
