@@ -1,8 +1,7 @@
 erted index**, alevance  a>
----
-
+-
 ## 
-### 🧮 Boolean Query Engine
+### y Engine
 Full support for structured logical queries parsed at the 
 | Query |
 |---|---|---|
