@@ -1,10 +1,10 @@
 erted 
 ### y Engin
 d al queries 
-| Query |
+| Quer
 |---|---|---|
 | anked | Scored  elevance
-| g` | Boolean AND | Documents conta |
+| g` | ND | Documents conta |
 | `database OR python` | Boolean OR | Documents containing **either** term |
 | `database AND NOT SQL` | Boolean AND NOT | Match `database`, exclude `SQL` |
 
