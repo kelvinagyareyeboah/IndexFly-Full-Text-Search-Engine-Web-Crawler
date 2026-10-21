@@ -1,6 +1,6 @@
 erted 
 ### y Engin
-d al queries 
+
 | Quer
 |---|---|---|
 | anked | Scored  elevance
