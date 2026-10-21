@@ -6,7 +6,7 @@ erted
 | anked | Scored  elevance
 | g` | ND | Documents conta |
 | `database OR python` | Boolean OR | Documents containing **either** term |
-| `database AND NOT SQL` | Boolean AND NOT | Match `database`, exclude `SQL` |
+| SQL` | Boolean AND NOT | Match `database`, exclude `SQL` |
 
 ### 📂 Inverted Index
 Custom in-memory inverted index built from raw `.txt` documents. Each term maps to a postings list of document IDs, term frequencies, and positional metadata.
