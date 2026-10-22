@@ -6,9 +6,7 @@ js.org](https:/> API server starts at `http://localh
 curl "
 curl "http://localhost:8080/api/
 # Boole
-curl "http://
-curl "http://localhost:8080/api/st
-curl "http://localhost:8
+ccurl "http://localhost:8
 ### Example response — `/api/search`
   "mode": "bm25
       "doc_id": "doc_042",
