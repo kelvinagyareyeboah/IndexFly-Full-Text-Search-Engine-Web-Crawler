@@ -2,7 +2,7 @@
 | g` | Nthon` | Boolean OR | Docuontaining  a postings list t **Reindex** in the the server.
 
 ### 📊 Index Stats API
-Live metrics endpoint — total documents, total unique terms, and average document length at a glance.
+Live metrendpoint — total documents, total unique terms, 
 
 ---
 
