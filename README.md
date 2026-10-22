@@ -8,7 +8,7 @@ curl "http://localhost:80
 ccurl "http://localhost:8
 ### Example response — 
   "mode": "bm25
-      "doc_id": "doc_042",
+      "d
       "title": "Introduction to Python Data Science",
       "score": 4.812,
       "snippet": "...Python is widely used in data analysis and machine learning..."
