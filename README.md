@@ -8,9 +8,7 @@ n.go          # Boolean query parser
 ### Step 1 — 
 
 ```bash
-cd backend
-go run .
-```
+cd bac
 
 > API server starts at `http://localhost:8080`
 
