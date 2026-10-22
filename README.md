@@ -8,8 +8,8 @@ n.go          # Boolean query parser
     │   ├── components/         # SearchBar, Res, etc.
     │   └── utils/              # AP
 ### Prerequisites
+| Requirement | Verss
 
-| Requirement | Version | Install |
 |---|---|---|
 | Go | 1.21+ | [go.dev/dl](https://go.dev/dl) |
 | Node.js | 16+ | [nodejs.org](https://nodejs.org) |
