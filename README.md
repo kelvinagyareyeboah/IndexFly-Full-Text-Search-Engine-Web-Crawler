@@ -1,7 +1,6 @@
 
 | g` 
-[ an Query Parser ]
-    │             │   AND / OR / AND NOT
+   AND / OR / AND NOT
     └──────┬──────┘
     
   [ Go REST API — 
