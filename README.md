@@ -1,6 +1,5 @@
 
-| g` | Nthon` | Boolean OR | Docuontaining **either** term |
- cuments.  term maps to a postings list of document IDs,erm frequencies, er
+| g` | Nthon` | Boolean OR | Docuontaining  a postings list of document IDs,erm frequencies, er
 
 Drop _docs/` and hit **Reindex** in the the server.
 
