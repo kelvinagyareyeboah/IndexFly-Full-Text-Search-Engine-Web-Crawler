@@ -5,7 +5,7 @@
 ```bash
 go build -o index
 
-### Step 2 — Frontend (Rea
+##
 cd frontend
 npm run dev
 ```
