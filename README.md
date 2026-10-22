@@ -7,8 +7,7 @@ js.org](https:/> API server starts at `http://localh
 
 ```bash
 # BM25 ranked search
-curl "http://localhost:8080/api/search?q=python+data"
-
+curl "http://localhost:8080/api/search?
 # Boolean AND
 curl "http://localhost:8080/api/search?q=machine+AND+learning"
 
