@@ -5,10 +5,7 @@
 ```bash
 go build
 n
-> UI starts at `http:
-
-## `$ cat API.md`
-
+> UI start
 ### Base URL
 ```
 http://localhost:8080
