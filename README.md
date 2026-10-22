@@ -2,10 +2,7 @@
     │   ├── components/         # Searc
 | Go | 1.21+ | [go.dev
 | Node.js | 16+ | [nodejs.org](https:/> API server starts at `http://localhost
-```bash
-go build
-n
->
+`
 ```
 
 | Method | Endpoint | Description |
