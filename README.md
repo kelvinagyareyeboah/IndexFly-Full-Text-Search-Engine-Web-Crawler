@@ -1,5 +1,5 @@
 
-| g` | Nthon` | Boolean OR | Docuontaining  a postings list t **Reindex** in the the server.
+| g` | Nthon` | Boolean OR | Docuontaining  a postingsst 
 
 ### 📊 Index Stats API
 Live metrendpoint — total documents, total unique terms, 
