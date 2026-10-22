@@ -6,7 +6,7 @@ n.go          # Boolean query parser
 │   ├──            # REST route handlers
 │   └── sample_docs/            # Dro
     │   ├── components/         # Searc
-| Go | 1.21+ | [go.dev/dl](https://go.dev/dl) |
+| Go | 1.21+ | [go.dev
 | Node.js | 16+ | [nodejs.org](https://nodejs.org) |
 | npm | 8+ | bu
 ---
