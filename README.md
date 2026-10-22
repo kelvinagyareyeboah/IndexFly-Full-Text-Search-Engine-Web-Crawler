@@ -5,11 +5,7 @@ n.go          # Boolean query parser
     │   ├── components/         # Searc
 | Go | 1.21+ | [go.dev
 | Node.js | 16+ | [nodejs.org](https://nodejs.org
-### Step 1 — 
-
-```bash
-cd bac
-
+### St
 > API server starts at `http://localhost:8080`
 
 To build a production binary:
