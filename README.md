@@ -5,7 +5,7 @@ js.org](https:/> API server starts at `http://localh
 # BM25 ranked search
 curl "
 curl "http://localhost:8080/api/search?q=machine+AND+le
-curl "http://localhost:8080/api/search?q
+curl "http://local
 # Boole
 curl "http://localhost:8080/api/search?q=database+AND+NOT+SQL"
 
