@@ -9,7 +9,7 @@ go build -o index
 
 ```bash
 cd frontend
-npm install
+npm
 npm run dev
 ```
 
