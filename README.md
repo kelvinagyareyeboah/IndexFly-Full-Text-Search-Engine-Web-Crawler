@@ -2,8 +2,7 @@
 | g` 
    AND 
            
-  [ React UI — :5173 ]
-  [ Tailwind CSS ]
+  [ React UI — :5173 
 ```
 
 ---
