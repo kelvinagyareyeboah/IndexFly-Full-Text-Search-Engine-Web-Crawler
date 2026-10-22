@@ -7,10 +7,7 @@ n.go          # Boolean query parser
 │   └── sample_docs/            # Drop .txt files he
     │   ├── components/         # SearchBar, Res, etc.
     │   └── utils/              # API service layer
-    └── public/
-```
-
-
+    └
 
 ### Prerequisites
 
