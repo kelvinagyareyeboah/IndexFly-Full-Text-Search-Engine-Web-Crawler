@@ -6,9 +6,7 @@ n.go          # Boolean query parser
 │   ├──            # REST route handlers
 │   └── sample_docs/            # Dro
     │   ├── components/         # SearchBar, 
-### Prerequisites
-| Req
-|---|---|---|
+### Prerequis
 | Go | 1.21+ | [go.dev/dl](https://go.dev/dl) |
 | Node.js | 16+ | [nodejs.org](https://nodejs.org) |
 | npm | 8+ | bundled with Node |
