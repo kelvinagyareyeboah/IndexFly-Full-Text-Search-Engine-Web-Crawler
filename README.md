@@ -1,11 +1,7 @@
 
     │   ├── components/         # Searc
 | Go | 1.21+ | [go.dev
-| Node.js | 16+ | [nodejs.org](https:/> API server starts at `http://localhost
-`
-```
-| Method | Endpo
-|---|---|---|
+| Node.js | 16+ | [nodejs.org](https:/> API server starts at `http://localh
 | `GET` | `/api/search?q=...` | BM25 ranked or Boolean query search |
 | `GET` | `/api/stats` | Index stats — docs, terms, avg document length |
 | `GET` | `/api/reindex` | Rebuild in
