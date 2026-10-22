@@ -8,8 +8,7 @@ n
 > UI start
 ### Base URL
 ```
-http://localhost:8080
-```
+http:
 
 ### Endpoints
 
