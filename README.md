@@ -1,5 +1,4 @@
-
-│   └── sample_docs/            # Dro
+           # Dro
     │   ├── components/         # Searc
 | Go | 1.21+ | [go.dev
 | Node.js | 16+ | [nodejs.org](https:/> API server starts at `http://localhost
