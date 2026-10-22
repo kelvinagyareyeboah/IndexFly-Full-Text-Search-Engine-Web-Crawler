@@ -5,8 +5,7 @@
 n.go          # Boolean query parser
 │   ├──            # REST route handlers
 │   └── sample_docs/            # Drop .txt files he
-    │   ├── components/         # SearchBar, Res, etc.
-    │   └── u
+    │   ├── components/         # SearchBar, 
 ### Prerequisites
 | Requirement | Verss
 
