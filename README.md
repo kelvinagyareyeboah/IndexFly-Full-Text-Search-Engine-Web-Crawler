@@ -4,8 +4,8 @@
     └──────┬──────┘
     
   [ Go REST API — 
-           ▼
-  [ React + TypeScript UI — :5173 ]
+           
+  [ React UI — :5173 ]
   [ Tailwind CSS ]
 ```
 
