@@ -12,13 +12,7 @@ curl "http://localhost:8080/api/reindex"
 ```
 
 ### Example response — `/api/search`
-
-```json
-{
-  "query": "python data",
-  "mode": "bm25",
-  "results": [
-    {
+  "mode": "bm25
       "doc_id": "doc_042",
       "title": "Introduction to Python Data Science",
       "score": 4.812,
