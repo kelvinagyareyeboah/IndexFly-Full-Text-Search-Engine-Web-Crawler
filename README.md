@@ -13,7 +13,7 @@
 ```
 IndexFly/
 ├── backend/                    # Go API server
-│   ├── main.go                 # Entry point
+│   
 │   ├── index/                  # Inverted index + BM25 logic
 │   │   ├── builder.go          # Index construction
 │   │   ├── bm25.go             # BM25 scoring algorithm
