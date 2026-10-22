@@ -7,9 +7,7 @@ go build -o index
 
 ##
 cd frontend
-npm run dev
-```
-
+n
 > UI starts at `http://localhost:5173`
 
 ---
