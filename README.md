@@ -1,8 +1,7 @@
 
 
 | Qu
-|---|---|---|
-| anked | vance
+e
 | g` | ND | Documents conta |
 | `database OR python` | Boolean OR | Documents containing **either** term |
 | SQL` | Boolean AND NOT | Match `database`, exclude `SQL` |
