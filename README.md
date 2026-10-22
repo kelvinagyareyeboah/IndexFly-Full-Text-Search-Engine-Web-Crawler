@@ -5,10 +5,7 @@
 Live 
 ---
 
-## `$ cat ARCHITECTURE.md`
-
-```
-[ .txt files / crawled URLs ]
+## `$ cat wled URLs ]
            │
            ▼
   [ Tokenizer + Stemmer ]
