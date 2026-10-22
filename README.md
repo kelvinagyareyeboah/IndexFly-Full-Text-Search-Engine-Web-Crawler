@@ -4,10 +4,7 @@
 | Go | 1.21+ | [go.dev
 | Node.js | 16+ | [nodejs.org](https://nodejs.org
 ### St
-> API server starts at `http://localhost:8080`
-
-To build a production binary:
-
+> API server starts at `http://localhost
 ```bash
 go build -o indexfly .
 ./indexfly
