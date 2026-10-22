@@ -4,10 +4,8 @@
 [ BM25 Scorer ] [ Boolean Query Parser ]
     │             │   AND / OR / AND NOT
     └──────┬──────┘
-           │
-  [ Go REST API — :8080 ]
-  /api/search  /api/stats  /api/reindex
-           │
+    
+  [ Go REST API — 
            ▼
   [ React + TypeScript UI — :5173 ]
   [ Tailwind CSS ]
