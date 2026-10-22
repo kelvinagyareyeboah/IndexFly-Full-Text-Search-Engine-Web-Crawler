@@ -5,7 +5,7 @@ e
 | g` | ND | OR python` | Boolean OR | Docuontaining **either** term |
  cuments.  term maps to a postings list of document IDs,erm frequencies, er
 
-Drop _docs/` and hit **Reindex** in the UI. The index rebuilds instantly without restarting the server.
+Drop _docs/` and hit **Reindex** in the the server.
 
 ### 📊 Index Stats API
 Live metrics endpoint — total documents, total unique terms, and average document length at a glance.
