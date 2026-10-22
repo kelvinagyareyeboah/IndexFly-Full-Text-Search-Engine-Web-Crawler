@@ -2,10 +2,7 @@
 | g` | 
 ---
 
-## `$ cat wled URLs ]
-           
-           │
-           ▼
+## 
   [ Inverted Index Builder ]
   term → [ docID, tf, positions ]
            │
