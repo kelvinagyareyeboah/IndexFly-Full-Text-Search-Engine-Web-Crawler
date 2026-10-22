@@ -1,8 +1,7 @@
 — 
 │   
 │   ├── 
-│   │   ├── builder.go          # Index construction
-│   │   ├── bm25.go             # BM25 scoring algorithm
+│   │   
 n.go          # Boolean query parser
 │   ├──               # REST route handlers
 │   └── sample_docs/            # Drop .txt files here to index
