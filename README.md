@@ -4,8 +4,7 @@ tp://localh
 | `GET` | `/api/reindex`### E
 # BM25 ranked search
 curl "
-curl "http://localhost:8080/api/
-# Boole
+curl "http://localhost:80
 ccurl "http://localhost:8
 ### Example response — `/api/search`
   "mode": "bm25
