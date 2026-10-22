@@ -7,8 +7,7 @@ curl "
 curl "http://localhost:8080/api/search?q=machine+AND+learning"
 
 # Boolean OR
-curl "http://localhost:8080/api/search?q=database+OR+python"
-
+curl "http://localhost:8080/api/search?q
 # Boolean AND NOT
 curl "http://localhost:8080/api/search?q=database+AND+NOT+SQL"
 
