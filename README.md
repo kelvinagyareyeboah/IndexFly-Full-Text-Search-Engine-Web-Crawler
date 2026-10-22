@@ -6,7 +6,7 @@ n.go          # Boolean query parser
 │   ├──            # REST route handlers
 │   └── sample_docs/            # Drop .txt files here 
     ├── src/
-    │   ├── components/         # SearchBar, Results, Stats, etc.
+    │   ├── components/         # SearchBar, Res, etc.
     │   └── utils/              # API service layer
     └── public/
 ```
