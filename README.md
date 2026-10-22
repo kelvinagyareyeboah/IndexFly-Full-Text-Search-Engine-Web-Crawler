@@ -4,11 +4,9 @@ js.org](https:/> API server starts at `http://localh
 | `GET` | `/api/reindex`### E
 # BM25 ranked search
 curl "
-curl "http://localhost:8080/api/search?q=machine+AND+learning"
-
-# Boolean OR
+curl "http://localhost:8080/api/search?q=machine+AND+le
 curl "http://localhost:8080/api/search?q
-# Boolean AND NOT
+# Boole
 curl "http://localhost:8080/api/search?q=database+AND+NOT+SQL"
 
 # Index stats
