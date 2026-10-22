@@ -8,9 +8,7 @@ curl "http://localhost:8080/api/
 # Boole
 curl "http://localhost:8080/a
 curl "http://localhost:8080/api/st
-curl "http://localhost:8080/api/reindex"
-```
-
+curl "http://localhost:8
 ### Example response — `/api/search`
   "mode": "bm25
       "doc_id": "doc_042",
