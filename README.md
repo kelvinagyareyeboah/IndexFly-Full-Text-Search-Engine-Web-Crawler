@@ -1,7 +1,6 @@
 
-| g` | 
-
-[ BM25 Scorer ] [ Boolean Query Parser ]
+| g` 
+[ an Query Parser ]
     │             │   AND / OR / AND NOT
     └──────┬──────┘
     
