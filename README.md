@@ -5,9 +5,7 @@
 ```bash
 go build
 n
-> UI starts at `http://localhost:5173`
-
----
+> UI starts at `http:
 
 ## `$ cat API.md`
 
