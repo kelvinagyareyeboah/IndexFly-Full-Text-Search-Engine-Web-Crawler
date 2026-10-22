@@ -3,8 +3,8 @@
 | Qu
 e
 | g` | ND | OR python` | Boolean OR | Docuontaining **either** term |
- cuments. Each term maps to a postings list of document IDs, term frequencies, er
-Crawl and ingest external URLs directly into the index — no manual document prep required.
+ cuments.  term maps to a postings list of document IDs, term frequencies, er
+Crawl and manual document prep required.
 
 ### ⚡ Live Reindex
 Drop new `.txt` files into `backend/sample_docs/` and hit **Reindex** in the UI. The index rebuilds instantly without restarting the server.
