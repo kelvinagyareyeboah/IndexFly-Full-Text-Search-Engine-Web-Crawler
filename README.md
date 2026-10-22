@@ -4,8 +4,7 @@
 | Node.js | 16+ | [nodejs.org](https:/> API server starts at `http://localhost
 `
 ```
-
-| Method | Endpoint | Description |
+| Method | Endpo
 |---|---|---|
 | `GET` | `/api/search?q=...` | BM25 ranked or Boolean query search |
 | `GET` | `/api/stats` | Index stats — docs, terms, avg document length |
