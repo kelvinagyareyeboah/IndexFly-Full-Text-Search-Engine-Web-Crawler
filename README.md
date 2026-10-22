@@ -5,8 +5,7 @@
 ```bash
 go build
 n
-> UI start
-### Base URL
+>
 ```
 http:
 
