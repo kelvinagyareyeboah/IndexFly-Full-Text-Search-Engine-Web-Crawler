@@ -4,8 +4,7 @@
 │   │   ├── builder.go          # Index construction
 │   │   ├── bm25.go             # BM25 scoring algorithm
 │   │   └── boolean.go          # Boolean query parser
-│   ├── crawler/                # Web crawler
-│   ├── api/                    # REST route handlers
+│   ├──               # REST route handlers
 │   └── sample_docs/            # Drop .txt files here to index
 └── frontend/                   # React + TypeScript (Vite)
     ├── src/
