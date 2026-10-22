@@ -3,9 +3,8 @@
 | Qu
 e
 | g` | ND | OR python` | Boolean OR | Docuontaining **either** term |
- cuments.  term maps to a postings list of document IDs, term frequencies, er
-Crawl and 
-### ⚡ LivReindex
+ cuments.  term maps to a postings list of document IDs,erm frequencies, er
+
 Drop _docs/` and hit **Reindex** in the UI. The index rebuilds instantly without restarting the server.
 
 ### 📊 Index Stats API
