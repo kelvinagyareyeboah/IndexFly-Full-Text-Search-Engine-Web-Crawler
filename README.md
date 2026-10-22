@@ -1,9 +1,8 @@
 
 | g` | Nthon` | Boolean OR | Docuontaining  a postingsst 
 
-### 📊 Index Stats API
-Live metrendpoint — total documents, total unique terms, 
-
+### 📊 Indtats API
+Live 
 ---
 
 ## `$ cat ARCHITECTURE.md`
