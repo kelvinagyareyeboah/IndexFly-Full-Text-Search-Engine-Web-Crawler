@@ -3,10 +3,7 @@
 | Go | 1.21+ | [go.dev
 | Node.js | 16+ | [nodejs.org](https:/> API server starts at `http://localhost
 ```bash
-go build -o index
-
-##
-cd frontend
+go build
 n
 > UI starts at `http://localhost:5173`
 
