@@ -1,10 +1,6 @@
 
 | g` | 
----
 
-## 
-  [ Inverted Index Builder ]
-  term → 
 [ BM25 Scorer ] [ Boolean Query Parser ]
     │             │   AND / OR / AND NOT
     └──────┬──────┘
