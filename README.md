@@ -1,5 +1,4 @@
-
-n.go          # Boolean query parser
+y parser
 │   ├──            # REST route handlers
 │   └── sample_docs/            # Dro
     │   ├── components/         # Searc
