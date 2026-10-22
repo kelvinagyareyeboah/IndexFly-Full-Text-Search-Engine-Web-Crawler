@@ -6,7 +6,7 @@ tp://localh
 curl "
 curl "http://localhost:80
 ccurl "http://localhost:8
-### Example response — `/api/search`
+### Example response — 
   "mode": "bm25
       "doc_id": "doc_042",
       "title": "Introduction to Python Data Science",
