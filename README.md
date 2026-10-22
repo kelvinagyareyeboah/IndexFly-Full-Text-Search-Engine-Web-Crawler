@@ -1,7 +1,5 @@
 
-| g` | Nthon` | Boolean OR | Docuontaining  a postingsst 
-
-### 📊 Indtats API
+| g` | Nthon` | Boolean OR | Docuontaining  a 
 Live 
 ---
 
