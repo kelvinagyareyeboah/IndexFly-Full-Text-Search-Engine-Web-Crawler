@@ -1,6 +1,5 @@
 
-| g` | Nthon` | Boolean OR | Docuontaining  a 
-Live 
+| g` | 
 ---
 
 ## `$ cat wled URLs ]
