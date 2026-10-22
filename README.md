@@ -3,9 +3,7 @@
 ---
 
 ## `$ cat wled URLs ]
-           │
-           ▼
-  [ Tokenizer + Stemmer ]
+           
            │
            ▼
   [ Inverted Index Builder ]
