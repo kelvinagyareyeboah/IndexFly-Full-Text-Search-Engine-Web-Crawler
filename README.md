@@ -1,9 +1,4 @@
-— :5173 
-`
-
-```
-IndexFly/
-├── backend/                    # Go API server
+— 
 │   
 │   ├── 
 │   │   ├── builder.go          # Index construction
