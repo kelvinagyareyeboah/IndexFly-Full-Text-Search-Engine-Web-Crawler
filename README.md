@@ -13,7 +13,7 @@
 IndexFly/
 ├── backend/                    # Go API server
 │   
-│   ├── index/                  # Inverted index + BM25 logic
+│   ├── 
 │   │   ├── builder.go          # Index construction
 │   │   ├── bm25.go             # BM25 scoring algorithm
 │   │   └── boolean.go          # Boolean query parser
