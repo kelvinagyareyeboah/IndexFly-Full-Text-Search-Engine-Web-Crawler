@@ -3,9 +3,7 @@
 | Qu
 e
 | g` | ND | OR python` | Boolean OR | Docuontaining **either** term |
- cuments. Each term maps to a postings list of document IDs, term frequencies, and positional metadata.
-
-### 🕷 Web Crawler
+ cuments. Each term maps to a postings list of document IDs, term frequencies, er
 Crawl and ingest external URLs directly into the index — no manual document prep required.
 
 ### ⚡ Live Reindex
