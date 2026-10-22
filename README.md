@@ -7,9 +7,6 @@ go build
 n
 >
 ```
-http:
-
-### Endpoints
 
 | Method | Endpoint | Description |
 |---|---|---|
