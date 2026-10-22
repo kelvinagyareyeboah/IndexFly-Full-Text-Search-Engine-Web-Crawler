@@ -1,9 +1,7 @@
 js.org](https:/> API server starts at `http://localh
 | `GET` | `/api/search?q=...` | BM25 ranked or Boolean query search |
 | `GET` | `/api/stats` | Index stats — docs, terms, avg document length |
-| `GET` | `/api/reindex` | Rebuild in
-
-### Example requests
+| `GET` | `/api/reindex`### Example requests
 
 ```bash
 # BM25 ranked search
