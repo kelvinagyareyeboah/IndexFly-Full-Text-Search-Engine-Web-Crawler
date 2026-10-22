@@ -5,7 +5,7 @@ n.go          # Boolean query parser
     │   ├── components/         # Searc
 | Go | 1.21+ | [go.dev
 | Node.js | 16+ | [nodejs.org](https://nodejs.org
-### Step 1 — Backend (Go API)
+### Step 1 — 
 
 ```bash
 cd backend
