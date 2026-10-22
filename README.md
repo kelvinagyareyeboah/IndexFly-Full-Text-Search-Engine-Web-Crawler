@@ -6,11 +6,7 @@
 ### St
 > API server starts at `http://localhost
 ```bash
-go build -o indexfly .
-./indexfly
-```
-
----
+go build -o index
 
 ### Step 2 — Frontend (React)
 
