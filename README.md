@@ -1,5 +1,4 @@
-
-    │   ├── components/         # Searc
+        # Searc
 | Go | 1.21+ | [go.dev
 | Node.js | 16+ | [nodejs.org](https:/> API server starts at `http://localh
 | `GET` | `/api/search?q=...` | BM25 ranked or Boolean query search |
