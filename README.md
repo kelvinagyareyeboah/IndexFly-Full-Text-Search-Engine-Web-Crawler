@@ -7,7 +7,7 @@ curl "
 curl "http://localhost:8080/api/search?q=machine+AND+le
 curl "http://local
 # Boole
-curl "http://localhost:8080/api/search?q=database+
+curl "http://localhost:8080/a
 curl "http://localhost:8080/api/stats"
 
 # Trigger reindex
