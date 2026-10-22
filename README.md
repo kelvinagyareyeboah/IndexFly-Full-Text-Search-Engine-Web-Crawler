@@ -7,9 +7,7 @@ curl "
 curl "http://localhost:8080/api/
 # Boole
 curl "http://localhost:8080/a
-curl "http://localhost:8080/api/stats"
-
-# Trigger reindex
+curl "http://localhost:8080/api/st
 curl "http://localhost:8080/api/reindex"
 ```
 
