@@ -3,9 +3,8 @@
 │   ├── 
 │   │   
 n.go          # Boolean query parser
-│   ├──               # REST route handlers
-│   └── sample_docs/            # Drop .txt files here to index
-└── frontend/                   # React + TypeScript (Vite)
+│   ├──            # REST route handlers
+│   └── sample_docs/            # Drop .txt files here 
     ├── src/
     │   ├── components/         # SearchBar, Results, Stats, etc.
     │   └── utils/              # API service layer
