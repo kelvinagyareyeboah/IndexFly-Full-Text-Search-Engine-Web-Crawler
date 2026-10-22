@@ -3,7 +3,7 @@ js.org](https:/> API server starts at `http://localh
 | `GET` | `/api/stats` | Index stats — docs, terms, avg document length |
 | `GET` | `/api/reindex`### E
 # BM25 ranked search
-curl "http://localhost:8080/api
+curl "
 curl "http://localhost:8080/api/search?q=machine+AND+learning"
 
 # Boolean OR
