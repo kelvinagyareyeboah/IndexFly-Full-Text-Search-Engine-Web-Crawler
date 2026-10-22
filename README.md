@@ -1,8 +1,6 @@
 
 | g` 
-   AND / OR / 
-    
-  [ Go REST API — 
+   AND 
            
   [ React UI — :5173 ]
   [ Tailwind CSS ]
