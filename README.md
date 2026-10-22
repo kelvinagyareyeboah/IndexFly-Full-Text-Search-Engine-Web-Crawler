@@ -1,8 +1,5 @@
 
-
-| Qu
-e
-| g` | ND | OR python` | Boolean OR | Docuontaining **either** term |
+| g` | Nthon` | Boolean OR | Docuontaining **either** term |
  cuments.  term maps to a postings list of document IDs,erm frequencies, er
 
 Drop _docs/` and hit **Reindex** in the the server.
