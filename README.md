@@ -10,9 +10,7 @@ n.go          # Boolean query parser
     └── public/
 ```
 
----
 
-## `$ cat START.md`
 
 ### Prerequisites
 
