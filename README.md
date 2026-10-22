@@ -1,7 +1,6 @@
 
 | g` 
-   AND / OR / AND NOT
-    └──────┬──────┘
+   AND / OR / 
     
   [ Go REST API — 
            
