@@ -8,7 +8,7 @@
 |---|---|---|
 | `GET` | `/api/search?q=...` | BM25 ranked or Boolean query search |
 | `GET` | `/api/stats` | Index stats — docs, terms, avg document length |
-| `GET` | `/api/reindex` | Rebuild index from `sample_docs/` |
+| `GET` | `/api/reindex` | Rebuild in
 
 ### Example requests
 
