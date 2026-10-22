@@ -7,8 +7,7 @@ n.go          # Boolean query parser
 │   └── sample_docs/            # Drop .txt files he
     │   ├── components/         # SearchBar, 
 ### Prerequisites
-| Requirement | Verss
-
+| Req
 |---|---|---|
 | Go | 1.21+ | [go.dev/dl](https://go.dev/dl) |
 | Node.js | 16+ | [nodejs.org](https://nodejs.org) |
