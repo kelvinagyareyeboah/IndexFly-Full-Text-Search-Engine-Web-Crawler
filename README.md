@@ -1,7 +1,4 @@
-— 
-│   
-│   ├── 
-│   │   
+
 n.go          # Boolean query parser
 │   ├──            # REST route handlers
 │   └── sample_docs/            # Dro
