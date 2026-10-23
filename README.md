@@ -7,8 +7,6 @@ ccurl "http://localhost:8
 Adding your
 # 1. Drop any
 # 2. Trigger a re
-curl http://localhost:8080/api/reindex
-
 # ...or click Reindex in the UI
 ```
 
