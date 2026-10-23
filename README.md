@@ -10,7 +10,7 @@ ccurl "http://localhost:8
 ```
 [✓] Inverted index from scratch
 [✓] BM25 relevance ranking
-[✓] Boolean query parser (AND / OR / AND NOT)
+[✓] Boo (AND / OR / AND NOT)
 [✓] Live reindex endpoint
 [✓] Index stats API
 [✓] React + TypeScript search UI
