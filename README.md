@@ -5,7 +5,7 @@ ccurl "http://localhost:8
   "mod
       "title": "Introduction to Python Data Science",
       "score": 4.812,
-      "snippet": "...Python is widely used in data analysis and machine learning..."
+      "snippet": "...Pwidely used in data analysis and machine learning..."
     }
   ],
   "total": 1,
