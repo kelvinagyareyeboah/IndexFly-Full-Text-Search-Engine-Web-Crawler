@@ -4,4 +4,4 @@
 
 ---
 
-*built with intention by [@kelvinagyareyeboah](https://gvinagyareyeboah) · co-founder @ 
+*built with intention by [@kelvinagyareyeboah](https://gvinagyareyeboah)
