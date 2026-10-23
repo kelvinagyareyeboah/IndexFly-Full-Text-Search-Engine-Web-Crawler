@@ -3,9 +3,7 @@
 ccurl "http:
 ## `$ cat# 2.[✓] BM25 relevan[✓] React + TypeScri
 [✓] Web
-[ ] Phrase / proximitFree to use, modify, and distribute wit
-
----
+[ ] Phrase / proximitFree to use, modify, and distr
 
 ## `$ whoami --links`
 
