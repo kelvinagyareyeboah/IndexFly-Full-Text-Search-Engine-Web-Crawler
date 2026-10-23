@@ -7,7 +7,7 @@ ccurl "http://localhost:8
       "score": 4.812,
       "snippet": "...Pwidely used in data analysis and machine learning..."
     
-  "elapsed_ms": 2
+  "e
 }
 ```
 
