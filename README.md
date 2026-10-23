@@ -1,6 +1,4 @@
-tp://localh
-| `GET` | `/api/search?q=...` | BM25 ranked or Boolean query search |
-| `GET` | `/api/stats` | Index stats — docs, terms, avg document length |
+
 | `GET` | `/api/reindex`### E
 # BM25 ran
 curl "
