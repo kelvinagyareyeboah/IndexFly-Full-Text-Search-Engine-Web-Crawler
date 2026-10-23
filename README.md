@@ -6,10 +6,7 @@ ccurl "http://localhost:8
 ## `$ cat# 2. Tri
 # ...or click Re
 
-The index rebuilds instantly. New documents are immediatchable.
-
----
-
+The index rebuilds instantly. New documents are immedia
 ## `$ cat ROADMAP.md`
 
 ```
