@@ -8,7 +8,7 @@ ccurl "http:
 ```
 [✓] Inverted index from scratch
 [✓] BM25 relevance ranking
-[✓] Boo (AND / OR / AND NOT)
+[✓] Boo (AND / OR
 [✓] Live reindex endpoint
 [✓] Index stats API
 [✓] React + TypeScript search UI
