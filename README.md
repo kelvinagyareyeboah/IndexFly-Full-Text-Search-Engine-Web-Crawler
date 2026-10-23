@@ -5,7 +5,7 @@ ccurl "http:
 [✓] Web crawler ingestion
 [ ] Phrase / proximity queries ("exact phrase")
 [ ] Field-scoped search (title:, bo[ ] Fuzzy matching + typo tol[ ] Query highlighting in result snippets
-[ ] Docker + docker-compose setup
+[ ] Docker + docker-co
 [ ] Benchmark suite (indexing speed, query latency)
 ```
 
