@@ -3,9 +3,9 @@
 ccurl "http://localhost:8
 ### Example response — 
   "mod
-      "title": "Introduction to Python Data Science",
-      "
-      "snippet": "...Pwidely used in data analysis and machine learning..."
+      "title": "Introduction to Python Data S
+      "snippet": "...Pwidelys data analysis and machine learning..."
+      
     
   "e
 }
