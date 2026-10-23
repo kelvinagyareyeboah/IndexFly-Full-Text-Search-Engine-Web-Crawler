@@ -5,9 +5,7 @@ ccurl "http://localhost:8
   "mod
       "titl
 ### Exam
-  "total_documents"
-  "avg_docum
----
+  "total_---
 
 ## `$ cat ADD_DOCS.md`
 
