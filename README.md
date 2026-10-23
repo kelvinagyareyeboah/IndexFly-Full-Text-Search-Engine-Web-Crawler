@@ -2,8 +2,7 @@
 | `GET` | `/api/reindex`### Ecurl "http://localhost:80
 ccurl "http://localhost:8
 ### Example response — 
-  "mode": "bm25
-      "d
+  "mod
       "title": "Introduction to Python Data Science",
       "score": 4.812,
       "snippet": "...Python is widely used in data analysis and machine learning..."
