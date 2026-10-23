@@ -4,8 +4,7 @@ ccurl "http://localhost:8
 ### Example response — 
   "mod
       "titl
-## `$ cat ADD_DOCS.md`
-
+## `$ cat A
 Adding your own documents to the index is a single
 # 1. Drop any .txt files into the sample_docs
 # 2. Trigger a reindex via curl...
