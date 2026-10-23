@@ -3,8 +3,6 @@
 ccurl "http:
 ## `$ cat# 2. Tri
 # ...or cThe index rebuilds instantly. New documen
-## `$ cat ROADMAP.md`
-
 ```
 [✓] Inverted index from scratch
 [✓] BM25 relevance ranking
