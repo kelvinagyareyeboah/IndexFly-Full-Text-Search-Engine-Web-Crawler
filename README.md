@@ -6,7 +6,7 @@ ccurl "http://localhost:8
       "titl
 ## `$ cat A
 Adding your own docume
-# 1. Drop any .txt files in
+# 1. Drop any
 # 2. Trigger a re
 curl http://localhost:8080/api/reindex
 
