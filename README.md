@@ -4,6 +4,6 @@
 
 ---
 
-*built with intention by [@kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) · co-founder @ [Zoharix](https://zoharix.tech)*
+*built with intention by [@kelvinagyareyeboah](https://gvinagyareyeboah) · co-founder @ [Zoharix](https://zoharix.tech)*
 
 </div>
