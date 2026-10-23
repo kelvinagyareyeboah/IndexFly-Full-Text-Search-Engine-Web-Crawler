@@ -1,8 +1,5 @@
 
-| `GET` | `/api/reindex`### E
-# BM25 ran
-curl "
-curl "http://localhost:80
+| `GET` | `/api/reindex`### Ecurl "http://localhost:80
 ccurl "http://localhost:8
 ### Example response — 
   "mode": "bm25
