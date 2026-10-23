@@ -6,9 +6,7 @@ ccurl "http://localhost:8
       "title": "Introduction to Python Data Science",
       "score": 4.812,
       "snippet": "...Pwidely used in data analysis and machine learning..."
-    }
-  ],
-  "total": 1,
+    
   "elapsed_ms": 2
 }
 ```
