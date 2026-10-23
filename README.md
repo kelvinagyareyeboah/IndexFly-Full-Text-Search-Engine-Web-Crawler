@@ -6,9 +6,7 @@ ccurl "http://localhost:8
       "titl
 ## `$ cat ADD_DOCS.md`
 
-Adding your own documents to the index is a single step:
-
-```bash
+Adding your own documents to the index is a single
 # 1. Drop any .txt files into the sample_docs folder
 cp my_document.txt backend/sample_docs/
 
