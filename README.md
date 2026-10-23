@@ -5,8 +5,7 @@ ccurl "http:
 [✓] Web
 [ ] Phrase / proximity queries ("exact
 
-## `$ cat LICENSE`
-
+## 
 MIT License — © 2025 [Agyare Kelvin Yeboah](https://kelvinagyareys
 
 
