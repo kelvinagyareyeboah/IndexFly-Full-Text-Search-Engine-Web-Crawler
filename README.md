@@ -1,8 +1,6 @@
 
 | `GET` | `/api/reindex`### Ecurl "http://localhost:80
-ccurl "http://localhost:8
-### Example response — 
-  "m
+ccurl "http:
 ## `$ cat# 2. Tri
 # ...or cThe index rebuilds instantly. New documen
 ## `$ cat ROADMAP.md`
