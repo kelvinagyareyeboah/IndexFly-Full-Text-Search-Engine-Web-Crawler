@@ -3,7 +3,7 @@
 ccurl "http://localhost:8
 ### Example response — 
   "mod
-      "title": "Introduction to Python Data S
+      "title": " S
       "snippet": "...Pwidelys data analysis and machin
 ```
 
