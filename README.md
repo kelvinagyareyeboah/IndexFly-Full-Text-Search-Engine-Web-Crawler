@@ -7,7 +7,7 @@ ccurl "http://localhost:8
 ## `$ cat A
 Adding your own documents to the index is a single
 # 1. Drop any .txt files into the sample_docs
-# 2. Trigger a reindex via curl...
+# 2. Trigger a re
 curl http://localhost:8080/api/reindex
 
 # ...or click Reindex in the UI
