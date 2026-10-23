@@ -1,5 +1,4 @@
-
-| `GET` | `/api/reindex`### Ecurl "http://localhost:80
+eindex`### Ecurl "http://localhost:80
 ccurl "http:
 ## `$ cat# 2.[✓] BM25 relevan[✓] React + TypeScr
 ## `$ whoami --l[![GitHub](https://o/badge/GitHub-kelvinagyareyeboah-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/kelvinagyare[![LinkedIn](ht.io/badge/LinkedIn-agyarekelvinyeboah-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agyarekelvinyeboah)
