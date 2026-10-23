@@ -2,9 +2,7 @@
 | `GET` | `/api/reindex`### Ecurl "http://localhost:80
 ccurl "http:
 ## `$ cat# 2. Tri
-# ...or cThe index rebuilds instantly. New documen
-```
-[✓] Inverted index from scratch
+# ...or cThe index rebuilds instantly[✓] Inverted index from scratch
 [✓] BM25 relevanc[✓] Li
 [✓] Index stats API
 [✓] React + TypeScript search UI
