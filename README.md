@@ -2,7 +2,7 @@
 | `GET` | `/api/reindex`### Ecurl "http://localhost:80
 ccurl "http:
 ## `$ cat# 2.[✓] BM25 relevan[✓] React + TypeScri
-[✓] Web crawler ingestion
+[✓] Web
 [ ] Phrase / proximity queries ("exact phrase")
 [ ] Field-scoped search (title:, bo[ ] Fuzzy matching + typo tol[ ] Query highlighting in result snippets
 [ ] Docker + docker-co
