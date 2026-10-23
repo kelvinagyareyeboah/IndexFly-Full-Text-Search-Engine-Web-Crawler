@@ -4,8 +4,7 @@ ccurl "http://localhost:8
 ### Example response — 
   "mod
       "titl
-### Example respon
-{
+### Exam
   "total_documents": 128,
   "total_terms": 14302,
   "avg_document_le
