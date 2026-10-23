@@ -4,9 +4,7 @@ ccurl "http://localhost:8
 ### Example response — 
   "m
 ## `$ cat# 2. Tri
-# ...or click Re
-
-The index rebuilds instantly. New documen
+# ...or cThe index rebuilds instantly. New documen
 ## `$ cat ROADMAP.md`
 
 ```
