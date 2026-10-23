@@ -3,10 +3,7 @@
 ccurl "http:
 ## `$ cat# 2.[✓] BM25 relevan[✓] React + TypeScri
 [✓] Web
-[ ] Phrase / proximity qu
-## 
-MIT License — © 2025 [Agyare Kelvin Yeboah](https://
-Free to use, modify, and distribute wit
+[ ] Phrase / proximitFree to use, modify, and distribute wit
 
 ---
 
