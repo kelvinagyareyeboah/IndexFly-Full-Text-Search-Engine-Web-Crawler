@@ -5,7 +5,7 @@ ccurl "http://localhost:8
   "mod
       "titl
 ## `$ cat A
-Adding your own docume
+Adding your
 # 1. Drop any
 # 2. Trigger a re
 curl http://localhost:8080/api/reindex
