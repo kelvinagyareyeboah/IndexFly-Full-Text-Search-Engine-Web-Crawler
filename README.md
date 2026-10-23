@@ -1,9 +1,7 @@
 
 | `GET` | `/api/reindex`### Ecurl "http://localhost:80
 ccurl "http:
-## `$ cat# 2. Tri
-# ...or cThe index rebuilds instantly[✓] Inverted index from scratch
-[✓] BM25 relevan[✓] React + TypeScri
+## `$ cat# 2.[✓] BM25 relevan[✓] React + TypeScri
 [✓] Web crawler ingestion
 [ ] Phrase / proximity queries ("exact phrase")
 [ ] Field-scoped search (title:, bo[ ] Fuzzy matching + typo tol[ ] Query highlighting in result snippets
