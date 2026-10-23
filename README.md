@@ -6,9 +6,7 @@ ccurl "http://localhost:8
       "title": " S
       "snippet": "...Pwide
 
-### Example response — `/api/stats`
-
-```json
+### Example response — `/api/s
 {
   "total_documents": 128,
   "total_terms": 14302,
