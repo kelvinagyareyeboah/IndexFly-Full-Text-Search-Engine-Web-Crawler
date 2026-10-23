@@ -3,10 +3,7 @@
 ccurl "http://localhost:8
 ### Example response — 
   "m
-## `$ cat A
-Addi
-# 1. Drop any
-# 2. Tri
+## `$ cat# 2. Tri
 # ...or click Reindex i
 ```
 
