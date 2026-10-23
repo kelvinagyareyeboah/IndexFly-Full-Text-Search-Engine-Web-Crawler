@@ -4,7 +4,7 @@ ccurl "http://localhost:8
 ### Example response — 
   "mod
       "title": " S
-      "snippet": "...Pwidelys data analysis and machin
+      "snippet": "...Pwidelys data anal
 ```
 
 ### Example response — `/api/stats`
