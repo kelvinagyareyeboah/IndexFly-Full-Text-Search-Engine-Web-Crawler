@@ -4,9 +4,6 @@ ccurl "http://localhost:8
 ### Example response — 
   "mod
       "titl
-### Exam
-  "total_---
-
 ## `$ cat ADD_DOCS.md`
 
 Adding your own documents to the index is a single step:
