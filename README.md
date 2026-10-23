@@ -6,7 +6,7 @@ ccurl "http:
 [ ] Phrase / proximity qu
 ## 
 MIT License — © 2025 [Agyare Kelvin Yeboah](https://
-Free to use, modify, and distribute with attribution.
+Free to use, modify, and distribute wit
 
 ---
 
