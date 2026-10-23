@@ -4,9 +4,7 @@ ccurl "http:
 ## `$ cat# 2.[✓] BM25 relevan[✓] React + TypeScri
 [✓] Web
 [ ] Phrase / proximity queries ("exact phrase")
-[ ] Field-scoped search (title:, bo[ ] Fuzzy matching + typo toQuery highlighting in result snippets
-[ ] Docker + docker-co
-[ ] Benchmark suite (indexing speed, query latency)
+[ ] Field-scoped search (title:, bo[ ] Fuzzy matching + typo toQuery highlighting in result sn[ ] Benchmark suite (indexing speed, query latency)
 ```
 
 ---
