@@ -2,8 +2,7 @@
 | `GET` | `/api/reindex`### Ecurl "http://localhost:80
 ccurl "http://localhost:8
 ### Example response — 
-  "mod
-      "titl
+  "m
 ## `$ cat A
 Adding your
 # 1. Drop any
