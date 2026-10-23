@@ -6,7 +6,7 @@ ccurl "http://localhost:8
 ## `$ cat A
 Addi
 # 1. Drop any
-# 2. Trigger a re
+# 2. Tri
 # ...or click Reindex in the UI
 ```
 
