@@ -4,8 +4,7 @@ ccurl "http://localhost:8
 ### Example response — 
   "m
 ## `$ cat# 2. Tri
-# ...or click Reindex i
-```
+# ...or click Re
 
 The index rebuilds instantly. New documents are immediately searchable.
 
