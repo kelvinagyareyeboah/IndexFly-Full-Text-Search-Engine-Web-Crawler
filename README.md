@@ -7,7 +7,7 @@ ccurl "http://localhost:8
 Addi
 # 1. Drop any
 # 2. Tri
-# ...or click Reindex in the UI
+# ...or click Reindex i
 ```
 
 The index rebuilds instantly. New documents are immediately searchable.
