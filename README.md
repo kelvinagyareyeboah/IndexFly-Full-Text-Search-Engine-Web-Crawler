@@ -3,9 +3,7 @@
 ccurl "http://localhost:8
 ### Example response — 
   "mod
-      "title": " S
-      "snippet": "...Pwide
-
+      "titl
 ### Example respon
 {
   "total_documents": 128,
