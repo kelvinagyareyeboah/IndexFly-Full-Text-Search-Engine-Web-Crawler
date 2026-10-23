@@ -4,7 +4,7 @@ ccurl "http://localhost:8
 ### Example response — 
   "m
 ## `$ cat A
-Adding your
+Addi
 # 1. Drop any
 # 2. Trigger a re
 # ...or click Reindex in the UI
