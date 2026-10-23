@@ -5,9 +5,7 @@ ccurl "http:
 [✓] Web
 [ ] Phrase / proximity qu
 ## 
-MIT License — © 2025 [Agyare Kelvin Yeboah](https://kelvinagyareys
-
-
+MIT License — © 2025 [Agyare Kelvin Yeboah](https://
 Free to use, modify, and distribute with attribution.
 
 ---
