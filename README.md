@@ -5,8 +5,7 @@ ccurl "http://localhost:8
   "mod
       "titl
 ### Exam
-  "total_documents": 128,
-  "total_
+  "total_documents"
   "avg_document_le
 ```
 
