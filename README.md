@@ -5,9 +5,7 @@ ccurl "http:
 # ...or cThe index rebuilds instantly. New documen
 ```
 [✓] Inverted index from scratch
-[✓] BM25 relevance ranking
-[✓] Boo 
-[✓] Li
+[✓] BM25 relevanc[✓] Li
 [✓] Index stats API
 [✓] React + TypeScript search UI
 [✓] Web crawler ingestion
