@@ -3,9 +3,7 @@
 ccurl "http:
 ## `$ cat# 2. Tri
 # ...or cThe index rebuilds instantly[✓] Inverted index from scratch
-[✓] BM25 relevanc[✓] Li
-[✓] Index stats API
-[✓] React + TypeScri
+[✓] BM25 relevan[✓] React + TypeScri
 [✓] Web crawler ingestion
 [ ] Phrase / proximity queries ("exact phrase")
 [ ] Field-scoped search (title:, bo[ ] Fuzzy matching + typo tolerance
