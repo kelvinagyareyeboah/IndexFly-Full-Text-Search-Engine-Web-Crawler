@@ -9,7 +9,8 @@ ccurl "http:
 
 ## `$ cat LICENSE`
 
-MIT License — © 2025 [Agyare Kelvin Yeboah](https://kelvinagyareyeboah.me)
+MIT License — © 2025 [Agyare Kelvin Yeboah](https://kelvinagyareys
+
 
 Free to use, modify, and distribute with attribution.
 
