@@ -10,8 +10,7 @@ ccurl "http://localhost:8
 {
   "total_documents": 128,
   "total_terms": 14302,
-  "avg_document_length": 312.4
-}
+  "avg_document_le
 ```
 
 ---
