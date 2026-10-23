@@ -10,9 +10,7 @@ ccurl "http:
 [✓] React + TypeScript search UI
 [✓] Web crawler ingestion
 [ ] Phrase / proximity queries ("exact phrase")
-[ ] Field-scoped search (title:, body:, url:)
-[ ] Persistent index storage (disk serialization)
-[ ] Fuzzy matching + typo tolerance
+[ ] Field-scoped search (title:, bo[ ] Fuzzy matching + typo tolerance
 [ ] Pagination + result cursor
 [ ] Query highlighting in result snippets
 [ ] Docker + docker-compose setup
